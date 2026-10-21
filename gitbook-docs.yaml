@@ -81,3 +81,16 @@ site:
           draft: true
           content:
             directory: ./trust-center
+    - type: section
+      key: section-api
+      title: API
+      path: api
+      children:
+        - type: space
+          key: space-api
+          title: API
+          path: api
+          default: true
+          draft: true
+          content:
+            directory: ./api

@@ -1,0 +1,16 @@
+# Ajustes ⚙️
+
+* [Descubre los principales cambios de la Nueva Interfaz GlobalSuite](descubre-los-principales-cambios-de-la-nueva-interfaz-globalsuite.md)
+* [¿Cómo configurar usuarios, roles y perfiles?](como-configurar-usuarios-roles-y-perfiles.md)
+* [¿Cómo configurar roles con Acceso Gerencial?](como-configurar-roles-con-acceso-gerencial.md)
+* [¿Cuáles son los tipos de usuarios disponibles?](cuales-son-los-tipos-de-usuarios-disponibles.md)
+* [¿Cómo configurar una conexión SAML?](como-configurar-una-conexion-saml.md)
+* [¿Cómo conectar y sincronizar Active Directory?](como-conectar-y-sincronizar-active-directory.md)
+* [¿Cómo realizar la sincronización con el Directorio Activo?](como-realizar-la-sincronizacion-con-el-directorio-activo.md)
+* [Configuración del doble factor de autenticación (2FA)](configuracion-del-doble-factor-de-autenticacion-2fa.md)
+* [¿Cómo configurar un servidor de correo-e ?](como-configurar-un-servidor-de-correo-e.md)
+* [¿Cómo gestionar los idiomas en GlobalSuite?](como-gestionar-los-idiomas-en-globalsuite.md)
+* [¿Cómo configurar una dimensión MÁXIMO en metodologías de GlobalSuite?](como-configurar-una-dimension-maximo-en-metodologias-de-globalsuite.md)
+* [¿Cómo sincronizar GlobalSuite® con FACT24?](como-sincronizar-globalsuite-r-con-fact24.md)
+* [Configuración general de GlobalSuite®](configuracion-general-de-globalsuite-r.md)
+* [¿Cómo personalizar GlobalSuite®?](como-personalizar-globalsuite-r.md)
