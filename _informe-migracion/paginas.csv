@@ -1,0 +1,21 @@
+﻿id;titulo;ruta;imagenes;videos;aviso
+259817474;GlobalSuite® Canal de denuncias;manual-canal-denuncias\README.md;0;0;se mantiene la portada con cards de GitBook
+259817577;Empresa Consulting;manual-canal-denuncias\empresa-consulting\README.md;0;0;
+259817600;Inicio - Vista general de Empresa;manual-canal-denuncias\empresa-consulting\inicio-vista-general-de-empresa.md;2;0;
+259817609;Empresa - Datos de Empresa;manual-canal-denuncias\empresa-consulting\empresa-datos-de-empresa.md;3;0;
+259817616;Documentos (Consulting);manual-canal-denuncias\empresa-consulting\documentos-consulting.md;1;0;
+259817554;Usuarios (Consulting);manual-canal-denuncias\empresa-consulting\usuarios-consulting.md;11;0;
+259817586;Configuraciones Consulting;manual-canal-denuncias\empresa-consulting\configuraciones-consulting.md;43;0;
+259817559;Comunicaciones;manual-canal-denuncias\empresa-consulting\comunicaciones.md;23;0;
+259817544;Registros (Logs);manual-canal-denuncias\empresa-consulting\registros-logs.md;3;0;
+259817476;Comunicaciones Caducadas;manual-canal-denuncias\empresa-consulting\comunicaciones-caducadas.md;5;0;
+259817564;Empresa Administradora;manual-canal-denuncias\empresa-administradora\README.md;0;0;
+259817568;Inicio - Vista General de la Empresa;manual-canal-denuncias\empresa-administradora\inicio-vista-general-de-la-empresa.md;1;0;
+259817605;Datos de Empresa;manual-canal-denuncias\empresa-administradora\datos-de-empresa.md;3;0;
+259817596;Gestión de Empresas;manual-canal-denuncias\empresa-administradora\gestion-de-empresas.md;3;0;
+259817613;Documentos;manual-canal-denuncias\empresa-administradora\documentos.md;1;0;
+259817549;Registros;manual-canal-denuncias\empresa-administradora\registros.md;3;0;
+259817581;Configuraciones;manual-canal-denuncias\empresa-administradora\configuraciones.md;44;0;" | no se pudo descargar /download/attachments/117644314/image-2023-10-24_10-10-9.png: HTTPSConnectionPool(host='help.globalsuite.es', port=443): Max retries exceeded with url: /download/attachments/117644314/image-2023-10-24_10-10-9.png (Caused by NameResolutionError(""HTTPSConnection(host='help.globalsuite.es', port=443): Failed to resolve 'help.globalsuite.es' ([Errno 11001] getaddrinfo failed)"")) | no se pudo descargar /download/attachments/117643933/Login.png: HTTPSConnectionPool(host='help.globalsuite.es', port=443): Max retries exceeded with url: /download/attachments/117643933/Login.png (Caused by NameResolutionError(""HTTPSConnection(host='help.globalsuite.es', port=443): Failed to resolve 'help.globalsuite.es' ([Errno 11001] getaddrinfo failed)"")) | no se pudo descargar /download/attachments/117643933/Azure_Microsoft_Authenticator.png: HTTPSConnectionPool(host='help.globalsuite.es', port=443): Max retries exceeded with url: /download/attachments/117643933/Azure_Microsoft_Authenticator.png (Caused by NameResolutionError(""HTTPSConnection(host='help.globalsuite.es', port=443): Failed to resolve 'help.globalsuite.es' ([Errno 11001] getaddrinfo failed)"")) | no se pudo descargar /download/attachments/117643933/Azure_MFA.png: HTTPSConnectionPool(host='help.globalsuite.es', port=443): Max retries exceeded with url: /download/attachments/117643933/Azure_MFA.png (Caused by NameResolutionError(""HTTPSConnection(host='help.globalsuite.es', port=443): Failed to resolve 'help.globalsuite.es' ([Errno 11001] getaddrinfo failed)"")) | no se pudo descargar /download/attachments/117643933/Configuracion_AzureAD.png: HTTPSConnectionPool(host='help.globalsuite.es', port=443): Max retries exceeded with url: /download/attachments/117643933/Configuracion_AzureAD.png (Caused by NameResolutionError(""HTTPSConnection(host='help.globalsuite.es', port=443): Failed to resolve 'help.globalsuite.es' ([Errno 11001] getaddrinfo failed)""))"
+259817591;Usuarios;manual-canal-denuncias\empresa-administradora\usuarios.md;8;0;
+259817479;Alta de Comunicados;manual-canal-denuncias\alta-de-comunicados.md;17;0;
+1891303464;Cumplimiento y Normativas Aplicables;manual-canal-denuncias\cumplimiento-y-normativas-aplicables.md;0;0;
