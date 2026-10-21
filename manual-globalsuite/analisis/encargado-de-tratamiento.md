@@ -1,3 +1,3 @@
 # Encargado de Tratamiento
 
-Contenido pendiente de migrar.
+Para visualizar la información de esta opción, vaya a la sección [Proveedores](../inicio/proveedores/README.md).
