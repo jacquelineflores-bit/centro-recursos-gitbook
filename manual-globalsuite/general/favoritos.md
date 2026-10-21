@@ -6,7 +6,7 @@ La sección de Favoritos permite crear accesos directos en la pantalla principal
 
 ![image-20241024-152707.png](../.gitbook/assets/654278681-image-20241024-152707.png)
 
-# Añadir un Favorito
+## Añadir un Favorito
 
 * Acceder a la pestaña "Favoritos" en el menú lateral izquierdo.
 
@@ -21,7 +21,7 @@ También se puede gestionar los accesos directos existentes haciendo clic en **"
 
 ![image-20241024-160730.png](../.gitbook/assets/654278681-image-20241024-160730.png)
 
-# Quitar favorito
+## Quitar favorito
 
 * Hacer clic en "Configurar", ubicado en la esquina superior derecha de la sección de "Favoritos"
 * Se abrirá una ventana emergente donde se permite desmarcar los favoritos actuales.

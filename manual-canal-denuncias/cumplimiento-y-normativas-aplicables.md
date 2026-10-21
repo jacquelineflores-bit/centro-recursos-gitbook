@@ -1,6 +1,6 @@
 # Cumplimiento y Normativas Aplicables
 
-# 01         Introducción
+## 01 Introducción
 
 El presente documento tiene como objeto la comparación y especificación del cumplimiento de la herramienta GlobalSuite Canal de Denuncias con los marcos normativos aplicables.
 
@@ -14,7 +14,7 @@ Concretamente se recoge el cumplimiento de la plataforma con:
 
 ·        Ley 2/2023, de 20 de febrero, reguladora de la protección de las personas que informen sobre infracciones normativas y de lucha contra la corrupción.
 
-# 02       Directiva (UE) 2019/1937
+## 02 Directiva (UE) 2019/1937
 
 El principal objetivo de la directiva (UE) 2019/1937 es garantizar la protección de los denunciantes cuando informen sobre posibles infracciones. En este sentido, la norma establece un marco común mínimo para garantizar esa protección de manera efectiva. **GlobalSuite permite a las organizaciones implementar y asegurar este marco de protección a través de su Canal de Denuncias, proporcionando la máxima transparencia y seguridad.**
 
@@ -24,7 +24,7 @@ La característica más importante del Canal de Denuncias de GlobalSuite con res
 
 Además, permite gestionar el ciclo de vida de la denuncia y asegurar los plazos de vigencia de las mismas habilitando a las organizaciones sistemas de alertas sobre la temporalidad de las denuncias y permitiendo su transferencia a canales alternativos fuera de los entornos productivos.
 
-# 03      ISO 37002 sobre Sistemas de Gestión de denuncias
+## 03 ISO 37002 sobre Sistemas de Gestión de denuncias
 
 La norma ISO 37002 establece elementos esenciales que deberán cumplir las herramientas de Canales de Denuncias y que GlobalSuite cumple actualmente:
 
@@ -36,7 +36,7 @@ La norma ISO 37002 establece elementos esenciales que deberán cumplir las herra
 
 * **Cierre de denuncias.** GlobalSuite permitirá el cierre de denuncias permitiendo a las organizaciones separar denuncias abiertas de las cerradas que deban ser almacenadas en entornos independientes al productivo. Además, junto con el resto de las herramientas de la plataforma GlobalSuite se podrá gestionar acciones y recomendaciones resultado de las investigaciones y del cierre de denuncias pudiendo gestionar y llevar los seguimientos de estas acciones.
 
-# 04      Ley 2/2023, de 20 de febrero, reguladora de la protección de las personas que informen sobre infracciones normativas y de lucha contra la corrupción
+## 04 Ley 2/2023, de 20 de febrero, reguladora de la protección de las personas que informen sobre infracciones normativas y de lucha contra la corrupción
 
 La Ley 2/2023, de 20 de febrero, reguladora de la protección de las personas que informen sobre infracciones normativas y de lucha contra la corrupción habilita que los sistemas de denuncias sean gestionados por un tercero externo; siempre y cuando el sistema ofrezca garantías adecuadas de respeto de la independencia, la confidencialidad, la protección de datos y el secreto de las comunicaciones de denunciante y denunciado (art. 6).
 
@@ -80,7 +80,7 @@ Por último, el canal de denuncias también contribuye a la promoción de una cu
 
 GlobalSuite ostenta la consideración de encargado del tratamiento a efectos de la legislación sobre protección de datos personales. El tratamiento se regirá por el acto o contrato al que se refiere el artículo 28.3 del Reglamento (UE) 2016/679, del Parlamento Europeo y del Consejo, de 27 de abril de 2016, de forma previa a la contratación del servicio.
 
-# 05      Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y Garantía de los Derechos Digitales (LOPDGDD)
+## 05 Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y Garantía de los Derechos Digitales (LOPDGDD)
 
 De cara a cumplir con la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y Garantía de los Derechos Digitales, el Canal de Denuncias de GlobalSuite (a) no guarda la IP del sujeto que interpone la denuncia en los supuestos en los que el interesado decide interponen la denuncia de manera anónima y (b) almacena la información contenida en las denuncias en backups un máximo de tres (3) meses.
 

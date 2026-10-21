@@ -1,10 +1,10 @@
 # Configuraciones Consulting
 
-##### **NOTA:** Esta opción está disponible para los usuarios Administrador Global y Administrador.
+###### **NOTA:** Esta opción está disponible para los usuarios Administrador Global y Administrador.
 
-# **Preguntas**
+## Preguntas
 
-##### **NOTA:** Esta funcionalidad se ofrece como un servicio adicional.
+###### **NOTA:** Esta funcionalidad se ofrece como un servicio adicional.
 
 Esta opción nos permite crear un formulario de comunicados desde cero, de tal forma que su estructura será la que se quiera siguiendo un patrón de fila por columna. Si definimos en una empresa un tipo de formulario, todas aquellas empresas hijas que se cree, aparecerán por defecto con ese tipo de formulario ya parametrizado, este podrá ser modificado sin que afecte al resto de empresas sus cambios.
 
@@ -38,7 +38,7 @@ Se ha de ir rellenando para definir el formulario/cuestionario dándole al botó
 
 ![](../.gitbook/assets/259817586-image2019-2-21-12-16-27.png)
 
-#### Adicionalmente existen dos opciones Check:
+##### Adicionalmente existen dos opciones Check:
 
 * ¿Es una pregunta obligatoria?
 
@@ -83,7 +83,7 @@ Ahí se muestra el campo que indica si el conflicto de intereses está habilitad
 
 En caso de estarlo, se muestra un campo de texto "Mensaje de aviso al comunicador" para poder definir un mensaje informativo que verá el denunciante en ese apartado.
 
-# **Datos Personales**
+## Datos Personales
 
 En este apartado de la Configuración, es posible parametrizar qué campos y qué datos personales puede completar, y cuáles debe completar por ser obligatorios, el comunicador que registra una denuncia (cuando esta no es anónima).
 
@@ -98,7 +98,7 @@ Al seleccionar un campo, en la parte inferior se habilita un formulario donde se
 
 NOTA: El campo "Email" es obligatorio y no se puede desactivar, ya que es necesario para el envío de contraseña de acceso y otros propósitos.
 
-# **Personalización**
+## Personalización
 
 En la segunda opción de la Configuración, es posible parametrizar varios apartados como son los siguientes:
 
@@ -254,7 +254,7 @@ Los campos que se pueden visualizar son:
 
 ![](../.gitbook/assets/259817586-image-2023-9-21-16-6-23.png)
 
-# **Sistema**
+## Sistema
 
 Es la tercera opción de Configuración, donde es posible cambiar parámetros internos para el formulario:
 
@@ -311,7 +311,7 @@ Los tipos de archivo que están soportados para el borrado automático de metada
 
 ![](../.gitbook/assets/259817586-image-2023-6-30-13-52-25.png)
 
-#### **Condiciones de Uso**
+##### Condiciones de Uso
 
 * Idioma → Nos permite seleccionar sobre qué idioma estamos adjuntando las condiciones del entorno.
 * Condiciones de Uso → Permite adjuntar unas condiciones de uso a la herramienta, que tendrán que se aceptadas para el envío de nuevas comunicaciones.
@@ -325,7 +325,7 @@ Estos cambios se aplicarán en los apartados de aceptación del usuario:
 
 ![](../.gitbook/assets/259817586-captura-condiciones.png)
 
-#### **Política de Privacidad**
+##### Política de Privacidad
 
 En este apartado se puede personalizar la política de privacidad que estará disponible en la vista del Comunicador o denunciante.
 
@@ -340,9 +340,9 @@ Esta configuración se aplicará a la vista del comunicador, tanto al realizar n
 
 ![](../.gitbook/assets/259817586-politica.png)
 
-##### **NOTA:** Esta funcionalidad se ofrece como un servicio adicional. Si quiere más información, póngase en contacto con su proveedor.
+###### **NOTA:** Esta funcionalidad se ofrece como un servicio adicional. Si quiere más información, póngase en contacto con su proveedor.
 
-#### **Asunto**
+##### Asunto
 
 En este apartado permite la posibilidad de habilitar/deshabilitar el campo "Asunto" para que sea visible en las fichas de las [Comunicaciones](https://help.globalsuite.es/display/CD/.Comunicaciones+vv2.46)  y se incluirá en los informes que se pueden obtener de la herramienta.  Si se desea también se puede modificar el nombre del campo "Asunto". 
 
@@ -361,13 +361,13 @@ Cuenta con mecanismos de seguridad para poder acceder una única vez a la herram
 
 Para activar el Doble Factor de Autenticación mediante TOTP, deberán realizar los pasos indicados en Usuarios > [Perfil](https://help.globalsuite.es/display/CD/Configuraciones+Consulting)
 
-#### **Entorno Secundario**
+##### Entorno Secundario
 
 En este apartado se activa la posibilidad de enviar las comunicaciones a un entorno secundario cuando se eliminan del productivo.
 
 ![](../.gitbook/assets/259817586-image2020-6-5-16-11-55.png)
 
-# **Servidor de Correo**
+## Servidor de Correo
 
 Es la cuarta opción del menú superior, donde es posible añadir un **Servidor de Correo** propio para el envío de las notificaciones de la herramienta:
 
@@ -375,25 +375,23 @@ Es la cuarta opción del menú superior, donde es posible añadir un **Servidor 
 * Direccion URL → Ruta del servidor que ha de ponerse desde el departamento técnico.
 * Puerto → Puerto que es necesario tener abierto desde al área o departamento técnico para permitir que los emails de comunicación lleguen a sus destinos.
 
-#### Configuración de Email
+##### Configuración de Email
 
 * Remitente del Email → Remitente del correo de las notificaciones que envía la herramienta.
 * Alias del Remitente →  Nombre que va a tener el remitente cuando lleguen estas notificaciones al correo.
 
-#### Autenticación en el Servidor
+##### Autenticación en el Servidor
 
 * Usuario → Cuenta de correo habilitada en el servidor (No necesaria en caso de tener Relay)
 * Contraseña del usuario → Contraseña de la cuenta de correo. (No necesario en caso de tener Relay)
 
 ![](../.gitbook/assets/259817586-image2019-2-21-12-42-12.png)
 
-# 
-
-# **Notificaciones**
+## Notificaciones
 
 Es la quinta opción del menú superior, donde es posible configurar las notificaciones que envía la herramienta en determinados casos.
 
-#### Notificaciones disponibles
+##### Notificaciones disponibles
 
 Existe una serie de notificaciones que se pueden configurar de manera específica, que aparecen en el listado de este apartado. En la parte derecha es posible consultar si cada una de ellas están habilitadas o no. Las notificaciones disponibles son:
 
@@ -416,7 +414,7 @@ Existe una serie de notificaciones que se pueden configurar de manera específic
 * Recordatorio recepción de comunicación → Esta alerta interna, permite notificar a los usuarios del Canal, incluyendo a los gestores asignados, cuando una comunicación se haya registrado X días antes (siendo esta cantidad configurable)
 * Aviso recepción de comunicación al comunicador. Notificación externa → Permite notificar del estado o situación de la denuncia registrada en el Canal, cuando pase un determinado número de días desde la creación. Esta alerta por correo electrónico se enviará únicamente en caso de que el comunicador no la haya registrado de forma anónima.
 
-#### Detalles de la notificación
+##### Detalles de la notificación
 
 Cuando se selecciona una notificación en la tabla de notificaciones disponibles, se carga en este apartado toda la información para configurar la misma.
 
@@ -442,7 +440,7 @@ Cuando se selecciona una notificación en la tabla de notificaciones disponibles
 
 ![](../.gitbook/assets/259817586-captura1.png)
 
-# **Documentación**
+## Documentación
 
 Esta opción permite a los administradores incorporar documentos que sean consultados por otros usuarios gestores desde la vista de [Documentos](documentos-consulting.md), o por las personas que van a dar de [alta un nuevo comunicado](../alta-de-comunicados.md).
 
@@ -456,17 +454,17 @@ Al pulsar el botón + aparece una ventana donde poder subir ese nuevo documento,
 
 ![](../.gitbook/assets/259817586-image2019-11-12-19-47-11.png)
 
-# **Conexiones**
+## Conexiones
 
 Este apartado permite a los administradores configurar conexiones con sistemas, servicios o herramientas externas.
 
-#### ADFS
+##### ADFS
 
 En caso de querer integrar la empresa con el servidor de ADFS corporativo, se podrá configurar en este apartado. Esto permitirá a los usuarios acceder mediante Single Sign-On (SSO), directamente en caso de estar autenticado en el dominio.
 
 ![](../.gitbook/assets/259817586-adfs-2.png)
 
-##### **NOTA:** Esta funcionalidad se ofrece como un servicio adicional. Si quiere más información, póngase en contacto con su proveedor.
+###### **NOTA:** Esta funcionalidad se ofrece como un servicio adicional. Si quiere más información, póngase en contacto con su proveedor.
 
 En primer lugar, para poder configurar la integración, esta tiene que estar habilitada (check **Habilitado**).
 
@@ -487,15 +485,15 @@ Los roles de usuario pueden ser obtenidos directamente del servidor de ADFS, en 
 
 Mediante el botón "Descargar XML de Configuración" se puede descargar el fichero XML de configuración para cargarlo como una nueva entrada de veracidad de usuarios de confianza.
 
-##### **NOTA IMPORTANTE:** El estándar SAML2 dispone de varios protocolos de binding
+###### **NOTA IMPORTANTE:** El estándar SAML2 dispone de varios protocolos de binding
 
 * HTTP Redirect
 * HTTP POST
 * HTTP Artifact
 
-##### Actualmente GlobalSuite® Whistleblower Channel soporta únicamente el protocolo HTTP Redirect.
+###### Actualmente GlobalSuite® Whistleblower Channel soporta únicamente el protocolo HTTP Redirect.
 
-#### Configuración Servidor ADFS (SAML 2.0)
+##### Configuración Servidor ADFS (SAML 2.0)
 
 En la configuración del servidor ADFS se debe indicar que los datos a pasar en la petición son como mínimo:
 
@@ -514,7 +512,7 @@ Para obtener más información sobre la configuración del servidor ADFS puede a
 
 <https://docs.microsoft.com/es-es/windows-server/identity/ad-fs/operations/create-a-relying-party-trust>
 
-#### Autenticación ADFS (SAML 2.0)
+##### Autenticación ADFS (SAML 2.0)
 
 Existen dos tipos de autenticación con ADFS:
 
@@ -533,7 +531,7 @@ La autenticación con ADFS tiene las siguientes particularidades:
 * Si el usuario está accediendo por primera vez a la herramienta, a través de ADFS, se creará un usuario automáticamente con el nombre de usuario que se provee en la petición SAML.
 * Si el nombre de usuario ya existe en GlobalSUITE y no es el mismo que se ha creado en la primera conexión se lanzaría un mensaje de error.
 
-# **Dashboard**
+## Dashboard
 
 Esta opción permite a los administradores personalizar las gráficas que aparecen en el apartado de [Inicio - Vista General de la Empresa](inicio-vista-general-de-empresa.md)
 

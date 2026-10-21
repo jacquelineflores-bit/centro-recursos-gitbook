@@ -4,7 +4,7 @@
 
 En este tipo de empresa es posible crear tres tipos de usuarios:
 
-### **Administrador Global**
+### Administrador Global
 
 Es el rol de usuario con todos los permisos para tener posibilidad de administrar y parametrizar el entorno, además tendrá acceso a la visualización y gestión de comunicaciones. Podrá asignar denuncias a los gestores.
 

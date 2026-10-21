@@ -1,6 +1,6 @@
 # Modelo Encuesta BIA por Impacto
 
-## **Configuración Encuesta General**
+## Configuración Encuesta General
 
 ![image-20250625-111029.png](../../.gitbook/assets/266863518-image-20250625-111029.png)
 
@@ -18,7 +18,7 @@
 
 Es posible traducir los campos del modelo de encuestas al resto de idiomas disponibles, a través del botón "Traducir" de la parte superior derecha. Este botón nos permitirá seleccionar otro idioma, y poder definir el nombre de los campos configurables en ese idioma. Actualmente, los estados de la encuesta.
 
-### **Información BIA**
+### Información BIA
 
 ![image-20250625-111126.png](../../.gitbook/assets/266863518-image-20250625-111126.png)
 
@@ -29,7 +29,7 @@ Permite definir las preguntas necesarias para ejecutar la encuesta del BIA. Los 
 * **Requisitos Adicionales:** Ofrece la posibilidad de informar sobre necesidades adicionales a la hora de completar la encuesta.
 * **Mostrar tabla de impactos:** Ofrece la posibilidad de mostrar la tabla de impacto y criterios a la hora de completar la encuesta.
 
-### **Configuración Preguntas Encuesta (Valoración BIA)**
+### Configuración Preguntas Encuesta (Valoración BIA)
 
 ![image-20250625-112407.png](../../.gitbook/assets/266863518-image-20250625-112407.png)
 
@@ -37,7 +37,7 @@ Las dimensiones que se muestran, son las que fueron configuradas como **Visibles
 
 El texto que acompaña a cada dimensión, permite definir las preguntas o enunciados que orientan la valoración de cada dimensión establecida.
 
-### **Configuración Preguntas Encuesta**
+### Configuración Preguntas Encuesta
 
 Ofrece la posibilidad de definir las preguntas necesarias para el cálculo de los siguientes conceptos:
 
@@ -52,7 +52,7 @@ Ofrece la posibilidad de definir las preguntas necesarias para el cálculo de lo
 * **Plazo de reanudación:** Ofrece la posibilidad de definir una pregunta para completar el plazo de recuperación de los servicios optimo.
 * **Justificación:** Permite preguntar sobre los criterios que justifiquen los valores definidos.
 
-### **Visibilidad y orden de campos**
+### Visibilidad y orden de campos
 
 En esta tabla se define la **visibilidad** y el **orden** de los campos y tablas fijas que pueden utilizarse en la encuesta BIA.
 
@@ -74,7 +74,7 @@ En esta tabla se define la **visibilidad** y el **orden** de los campos y tablas
 \*\*NOTA 2\*\*: En el momento de pulsar el botón "Modificar BIAs" en la opción >[Encuestas BIA Tiempo](https://help.globalsuite.es/display/GlobalSUITEes/.Encuestas+BIA+Tiempo+vv6.64),  en las encuestas sólo se consolidarán los campos que hayan sido marcados como visibles.
 {% endhint %}
 
-### **Preguntas Personalizables**
+### Preguntas Personalizables
 
 Este apartado permite incluir en la encuesta BIA preguntas adicionales configuradas previamente en **Ajustes >** [Configuración BIA](https://help.globalsuitesolutions.com/es/globalsuite/v1/configuracion-bia)
 
@@ -88,7 +88,7 @@ La tabla permite seleccionar preguntas desde un desplegable mediante el botón *
 * **Tipo**: determina el formato de la pregunta (texto libre, tabla, selección, etc.).
 * **Orden (por bloque)**: establece el orden en que se mostrarán las preguntas dentro de cada bloque. Es posible reordenarlas mediante los botones **“Subir Orden”** y **“Bajar Orden”**.
 
-### **Adjuntos**
+### Adjuntos
 
 En los modelos de encuestas BIA, es posible cargar archivos y documentos con ayudas, guías o una explicación detallada, que se enviarán por correo a los destinatarios de las encuestas cuando se lancen, además de estar disponibles en la propia encuesta para su consulta.
 

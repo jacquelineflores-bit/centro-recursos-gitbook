@@ -39,7 +39,7 @@ El usuario puede ajustar manualmente las correspondencias antes de ejecutar la i
 
 ## Acciones
 
-### **Importar**
+### Importar
 
 Ejecuta la importación de los datos según el mapeo definido.
 

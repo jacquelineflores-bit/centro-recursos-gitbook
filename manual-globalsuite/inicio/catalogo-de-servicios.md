@@ -14,7 +14,7 @@ Al acceder a uno de los servicios de la empresa aparecerá un formulario para la
 
 El formulario se divide en dos apartados: Datos Generales del Servicio e Informe del Servicio.
 
-# Datos Generales
+## Datos Generales
 
 Los datos generales describen el servicio de manera exhaustiva. La información de este apartado se mostrará en el portal del cliente como información del informe del servicio.
 
@@ -46,7 +46,7 @@ Los puntos que se pueden definir son los siguientes:
 
 ![](../.gitbook/assets/266863700-servicios1-v2.jpg)
 
-# Estructura Organizativa
+## Estructura Organizativa
 
 ![](../.gitbook/assets/266863700-inc-3.jpg)
 
@@ -62,13 +62,13 @@ La opción permite al usuario asociar una unidad organizativa al servicio. Las o
 
 ![](../.gitbook/assets/266863700-inc-5.jpg)
 
-# Informes del Servicio
+## Informes del Servicio
 
 La opción de Informe de Servicio permite mostrar en el portal de clientes información periódica sobre el desarrollo del servicio. Se pueden elegir los informes que se muestran a los clientes dentro del campo ‘Mostrar en el Portal’. Para crear una nueva entrada se debe pulsar el botón ‘Nuevo’. Para eliminar un informe se deberá seleccionar la fila o filas a eliminar en la tabla y pulsar el botón ‘Eliminar’.
 
 ![](../.gitbook/assets/266863700-inicio17.jpg)
 
-# Información General
+## Información General
 
 Esta sección del formulario permite realizar la valoración del servicio en las dimensiones configuradas para el inventario de activos.
 
@@ -86,7 +86,7 @@ Las dimensiones que aparecen son configurables en 'Ajustes - Metodologías Anál
 
 * **Número de Usuarios:** Permite identificar el número de clientes aproximando a los que se le presta el servicio.
 
-# Propagación Servicios
+## Propagación Servicios
 
 La presente opción permite el propagar los servicios generados en la empresa matriz a las subentidades que dependen de esta.
 

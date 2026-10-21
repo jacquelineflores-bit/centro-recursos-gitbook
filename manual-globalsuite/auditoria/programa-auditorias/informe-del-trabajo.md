@@ -4,7 +4,7 @@ Dentro de la vista de Informe del Trabajo, es posible revisar los resultados de 
 
 ![image-20250421-174528.png](../../.gitbook/assets/266863651-image-20250421-174528.png)
 
-## **Informe Auditoría**
+## Informe Auditoría
 
 * **Nombre trabajo:**Identifica el nombre del trabajo de auditoría.
 * **Número informe:**Muestra el numero de informe, con el que se identifica el trabajo de auditoría.
@@ -16,7 +16,7 @@ Dentro de la vista de Informe del Trabajo, es posible revisar los resultados de 
 * **Comentarios:**Posibilita incorporar cualquier comentario adicional al informe del trabajo.
 * **Responsables:**Esta opción permite asociar responsables de la elaboración del Informe del trabajo, a nivel de roles o roles y personas concretas. Al pulsar Asociar se abrirá en una ventana el listado de roles y empleados del sistema, para poder asociarlos.
 
-### **Documentación**
+### Documentación
 
 Adicionalmente, en este apartado es posible adjuntar uno o varios documentos utilizados en el trabajo.
 
@@ -26,7 +26,7 @@ Adicionalmente, en este apartado es posible adjuntar uno o varios documentos uti
   * **Descargar** Permite descargar los documentos añadidos.
   * **Visualizar:** Para los ficheros pdf y las imágenes, es posible previsualizarlos en una pantalla emergente sin necesidad de descargarlo.
 
-### **Cambios**
+### Cambios
 
 * **Cambios Elementos:** Muestra un resumen de los cambios propuestos sobre los elementos evaluados durante la auditoría. Esta sección permite identificar las diferencias respecto al inventario actual y dejar registro de las modificaciones planteadas
 * **Cambios Riesgos:**Muestra un resumen de los cambios propuestos en la valoración de los riesgos, de forma que se tienen identificadas las diferencias respecto al análisis de riesgos y se muestren en el informe.

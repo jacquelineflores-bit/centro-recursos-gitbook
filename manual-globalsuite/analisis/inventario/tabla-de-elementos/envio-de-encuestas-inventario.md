@@ -6,7 +6,7 @@ Para ello, es necesario seleccionar uno o varios elementos del inventario y puls
 
 ![image-20260318-110602.png](../../../.gitbook/assets/1644068880-image-20260318-110602.png)
 
-### **Configuración de envío**
+### Configuración de envío
 
 ![image-20260318-124513.png](../../../.gitbook/assets/1644068880-image-20260318-124513.png)
 
@@ -22,7 +22,7 @@ Para ello, es necesario seleccionar uno o varios elementos del inventario y puls
 * **Responsable**: El responsable configurado en la Plantilla.
 * **Comentarios:** En este apartado se muestra el texto asociado a la plantilla, el cual se puede editar. Este texto será el que se visualice en la landing de las encuestas completadas. Si el campo queda vacío, se añadirá automáticamente un texto por defecto.
 
-### **Selección de Destinatarios - Plantilla sin estados.**
+### Selección de Destinatarios - Plantilla sin estados.
 
 **Destinatarios:** En este apartado se pueden seleccionar los destinatarios de la encuesta. Este campo puede estar prellenado si la plantilla lo incluye. Si el campo está vacío, se asignará automáticamente al responsable del elemento, siempre y cuando todos los elementos tengan el mismo responsable. Si no cumplen esta condición, el campo quedará vacío, y será obligatorio seleccionar al menos un destinatario para que se habilite el botón "Enviar"
 
@@ -30,7 +30,7 @@ Para ello, es necesario seleccionar uno o varios elementos del inventario y puls
 
   ![image-20260318-125905.png](../../../.gitbook/assets/1644068880-image-20260318-125905.png)
 
-### **Selección de Destinatarios - Plantilla con estados**
+### Selección de Destinatarios - Plantilla con estados
 
 Si la encuesta incluye estados, la tabla de destinatarios estará prellenada según la configuración de la plantilla.
 
@@ -38,7 +38,7 @@ Si no hay destinatarios asignados para el primer estado, que es obligatorio, se 
 
 * ![image-20260318-131708.png](../../../.gitbook/assets/1644068880-image-20260318-131708.png)
 
-### **Envío de encuestas**
+### Envío de encuestas
 
 Al presionar el botón "Enviar", el sistema realiza las siguientes acciones:
 

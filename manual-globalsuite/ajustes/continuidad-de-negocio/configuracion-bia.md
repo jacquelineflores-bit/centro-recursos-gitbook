@@ -1,32 +1,32 @@
 # Configuración BIA
 
-## Tipos de Impactos en el Negocio
+### Tipos de Impactos en el Negocio
 
 Se pueden añadir o eliminar tipos de impacto que pueden afectar a la organización. El administrador de la plataforma podrá definir por cada uno de los impactos la escala de manera independiente.
 
 Estos tipos de impacto pueden clasificarse como Cualitativos y Cuantitativos, dependiendo de si se quieren valorar en el BIA en base a los niveles de impacto configurados o introduciendo magnitudes numéricas (como cantidades económicas). Además, para cada tipo de impacto podrá indicarse si se quiere valorar de manera adicional en un período crítico o no. Por último, se podrá definir de qué manera se calculará la criticidad para cada uno de ellos, con alguno de los siguientes criterios: Valor Acumulado, Máximo, Mínimo o Media.
 
-## Cálculo Global Tabla Impacto
+### Cálculo Global Tabla Impacto
 
 Permite definir el criterio que se utilizará para obtener el valor de criticidad de la tabla de impacto, que podrá ser: Valor Acumulado, Máximo, Mínimo, Media o Media Ponderada asignando pesos a cada tipo.
 
-## Tipo Cálculo Criticidad
+### Tipo Cálculo Criticidad
 
 Este campo indica si el cálculo del valor global de criticidad de la tabla de impacto se hará a partir de los valores finales de cada tipo de impacto (por filas), utilizando los valores calculados para cada uno de los escalones de interrupción (por columnas) o con ambos conjuntos de valores (por filas y columnas).
 
-## Impactos por Escala Temporal
+### Impactos por Escala Temporal
 
 Esta tabla permite definir los criterios de los tipos de impacto creados para cada nivel. Los criterios definidos en la tabla aparecerán en los BIA y las encuestas de BIA, de forma que el usuario podrá consultar el criterio asociado a cada nivel de evaluación (Bajo, Medio, Alto, etc.). Para editar un criterio, se debe seleccionar la celda correspondiente en la tabla y hacer doble click.
 
 ![image-20241021-141210.png](../../.gitbook/assets/266863940-image-20241021-141210.png)
 
-## Tabla de Escala Temporal
+### Tabla de Escala Temporal
 
 Permite la creación de la escala temporal en la que se basará el BIA. Se pueden definir distintos registros introduciendo la cantidad (sólo valores numéricos) y la unidad deseada (segundos, minutos, horas, días, semanas), con la restricción de que no puede haber dos unidades con la misma cantidad y unidad. La tabla se ordenará automáticamente con cada cambio.
 
 ![image-20241021-141428.png](../../.gitbook/assets/266863940-image-20241021-141428.png)
 
-## Niveles
+### Niveles
 
 Este apartado permite definir los niveles de evaluación de los diferentes impactos definidos en la escala temporal establecida. Estos niveles se utilizan en la realización de Encuestas, BIAs y Pre-BIAs. Es posible asignar un valor numérico a cada nivel, que se usará en el cálculo de la criticidad.
 
@@ -40,7 +40,7 @@ Las opciones que permite este apartado son:
 * **Subir Nivel:** Ofrece la posibilidad de subir la posición en el que el nivel se mostrará en el listado.
 * **Bajar Nivel:** Ofrece la posibilidad de bajar la posición en el que el nivel se mostrará en el listado.
 
-## Habilitar Criticidad
+### Habilitar Criticidad
 
 Este apartado permite la posibilidad de ocultar la criticidad en los BIAS. En caso de que no se quiera utilizar la funcionalidad para obtener y calcular un valor de criticidad de los procesos (en función de la valoración de impacto), es posible desactivarla.
 
@@ -49,7 +49,7 @@ Este apartado permite la posibilidad de ocultar la criticidad en los BIAS. En ca
 
 ![image-20241021-143301.png](../../.gitbook/assets/266863940-image-20241021-143301.png)
 
-## Niveles de Criticidad
+### Niveles de Criticidad
 
 Este apartado permite definir los niveles cualitativos en los cuales se expresará la criticidad resultante del BIA. Este nivel se obtiene a partir del cálculo de la tabla de impactos.
 
@@ -67,7 +67,7 @@ Para cada nivel se puede definir el rango de valores englobados en él, editando
 \*\*NOTA:\*\*Si la criticidad esta deshabilitada, los apartados Niveles de Criticidad y Nivel Aceptable de Criticidad no aparecerán en la configuración.
 {% endhint %}
 
-## Configuración de cálculo MTPD y RTO
+### Configuración de cálculo MTPD y RTO
 
 La configuración establecida en esta sección impacta directamente en:
 
@@ -78,9 +78,9 @@ La configuración establecida en esta sección impacta directamente en:
 
 De este modo, los criterios definidos aquí determinan si el cálculo de los valores será manual o automático, y en caso de ser automático, bajo qué regla se generarán.
 
-### MTPD
+#### MTPD
 
-#### Configuración
+##### Configuración
 
 En el campo **Cálculo MTPD** se puede seleccionar una de estas opciones:
 
@@ -90,7 +90,7 @@ En el campo **Cálculo MTPD** se puede seleccionar una de estas opciones:
 
 ![image-20260829-210501.png](../../.gitbook/assets/266863940-image-20260829-210501.png)
 
-#### Criterios de cálculo automático
+##### Criterios de cálculo automático
 
 Si se selecciona la opción **Automático**, se habilitan los siguientes criterios:
 
@@ -105,16 +105,16 @@ En función del criterio elegido, se muestran campos adicionales:
 
 ---
 
-### RTO
+#### RTO
 
-#### Configuración
+##### Configuración
 
 En el campo **Cálculo RTO** se puede seleccionar una de estas opciones:
 
 * **Manual**: el valor se introduce directamente en cada servicio o proceso (opción por defecto en clientes actuales y nuevos).
 * **Automático**: el valor se calcula en base a los impactos registrados en el BIA, siguiendo el criterio configurado.
 
-#### Criterios de cálculo automático
+##### Criterios de cálculo automático
 
 Si se selecciona la opción **Automático**, se habilitan los siguientes criterios
 
@@ -131,9 +131,9 @@ En función del criterio elegido, se muestran campos adicionales:
 * Para *Primer impacto de tipo*: un desplegable con los **tipos de impacto** configurados.
 * Para *Porcentaje del MTPD*: un campo numérico que permite introducir valores entre **1 y 100**.
 
-## Configuración bloques y visibilidad
+### Configuración bloques y visibilidad
 
-### **Bloques del formulario**
+#### Bloques del formulario
 
 Este apartado permite editar el título de cada bloque o apartado del formulario del BIA.
 
@@ -141,7 +141,7 @@ Este apartado permite editar el título de cada bloque o apartado del formulario
 
 Existen un total de 10 bloques posibles. Los campos y preguntas configurables de los BIAs se incluirán en estos bloques. En el formulario de BIA sólo aparecerán los bloques con algún campo asociado.
 
-# Visibilidad y orden de campos
+## Visibilidad y orden de campos
 
 En esta tabla se puede definir la visibilidad de los campos y tablas fijos que se pueden utilizar en la realización de BIAs. Existen campos que son obligatorios: Nombre, Tabla de Impactos y MTPD.
 
@@ -158,7 +158,7 @@ La información que aparece en la tabla es:
 \*\*NOTA:\*\* Si se oculta un campo en la configuración general de BIAs, también se desmarcará en los Modelos de Encuesta.
 {% endhint %}
 
-# Preguntas Personalizadas
+## Preguntas Personalizadas
 
 Este apartado permite definir un listado de preguntas que permitan obtener la información requerida para la realización de los BIAs.
 

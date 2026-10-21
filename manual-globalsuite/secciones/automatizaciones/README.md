@@ -1,7 +1,5 @@
 # Automatizaciones
 
-# **Automatizaciones**
-
 |  |
 | --- |
 | El módulo de Automatizaciones permite crear reglas para que GlobalSuite® ejecute **acciones automáticas** cuando se produzcan **eventos** dentro de la solución. Su objetivo es reducir tareas manuales, estandarizar respuestas recurrentes y facilitar la trazabilidad de los procesos GRC. |

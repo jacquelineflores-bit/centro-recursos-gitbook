@@ -4,13 +4,13 @@
 Esta sección centraliza la información esencial de la empresa en GlobalSuite®, incluyendo detalles generales, opciones de idiomas y datos de contacto. Permite configurar y consultar los aspectos básicos de los servicios contratados y el perfil corporativo.
 {% endhint %}
 
-## **Datos Generales**
+## Datos Generales
 
 Permite visualizar información referente a los servicios y módulos contratados en GlobalSuite® por la empresa seleccionada, como son los servicios contratados, los módulos disponibles y el tipo de licencia.
 
 ![image-20241107-171843.png](../.gitbook/assets/266864171-image-20241107-171843.png)
 
-## **Idiomas**
+## Idiomas
 
 Permite seleccionar qué idiomas de entre los disponibles en GlobalSUITE® se van a utilizar en la empresa, marcando uno por defecto. Estos idiomas serán en los que se podrán configurar los parámetros personalizables.
 
@@ -33,7 +33,7 @@ Los idiomas disponibles actualmente en GlobalSUITE® son:
 
 ![image-20241107-171646.png](../.gitbook/assets/266864171-image-20241107-171646.png)
 
-## **Datos empresa**
+## Datos empresa
 
 Podrá visualizar datos como el CIF, Razón Social, Teléfono, Dirección, Personas de Contacto, etc. sobre la empresa seleccionad
 

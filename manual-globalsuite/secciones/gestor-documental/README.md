@@ -21,8 +21,6 @@ Por defecto la empresa dispondrá de una carpeta SG (sistema de gestión) para l
 * [Propagación Documentos](propagacion-documentos.md)
 * [Asistente de IA en el editor de documentos](asistente-de-ia-en-el-editor-de-documentos.md)
 
-### 
-
 ## Vídeos
 
 {% file src="../../.gitbook/assets/266864205-gestor-documental.mp4" %}

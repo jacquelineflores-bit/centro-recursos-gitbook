@@ -1,6 +1,6 @@
 # IA: Mecanismos de Seguridad en GlobalSuite
 
-# CUESTIONES REFERENTES A MECANISMOS DE SEGURIDAD IMPLEMENTADOS EN LA IA DE GlobalSuite®
+## CUESTIONES REFERENTES A MECANISMOS DE SEGURIDAD IMPLEMENTADOS EN LA IA DE GlobalSuite®
 
 1. **¿Cuáles son los mecanismos de seguridad que GlobalSuite® ha implementado en su Inteligencia Artificial para proteger la información y garantizar la integridad de los datos?**
 

@@ -75,7 +75,7 @@ En la parte superior de la pantalla se encuentran disponibles los siguientes fil
 * Responsable del ticket
 * Responsable del riesgo
 
-#### **Funcionamiento de los filtros:**
+#### Funcionamiento de los filtros:
 
 Cada filtro permite seleccionar uno o varios valores mediante un selector múltiple, y su funcionamiento incluye las siguientes opciones:
 

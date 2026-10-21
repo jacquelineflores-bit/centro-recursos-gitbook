@@ -2,7 +2,7 @@
 
 ![](../../../.gitbook/assets/266863962-enc8.jpg)
 
-## **Datos Generales Encuesta**
+## Datos Generales Encuesta
 
 Permite definir la siguiente información:
 
@@ -13,7 +13,7 @@ Permite definir la siguiente información:
 * **Fecha:** Posibilita establecer la fecha de realización de la encuesta.
 * **Proceso de Negocio:** Permite definir el proceso de negocio evaluado en la encuesta.
 
-## **Preguntas personalizables**
+## Preguntas personalizables
 
 ![](../../../.gitbook/assets/266863962-gestionencuestas-3.jpg)
 
@@ -31,19 +31,19 @@ También se pueden incorporar nuevos elementos pulsando el botón 'Crear Element
 
 Para todos los elementos incorporados en la pregunta tipo 'Tabla de Elementos' se permite especificar el instante de recuperación en caso de desastre, utilizando los campos 'Valor RTO' y 'Unidad RTO', además de poder añadir un comentario para cada elemento.
 
-## **Listado de Preguntas Encuesta**
+## Listado de Preguntas Encuesta
 
 Por cada una de las preguntas definidas en el apartado ‘Ajustes/Gestión de Encuestas’, permite fijar todas y cada una de las respuestas planteadas por el responsable y departamento entrevistado.
 
 ![](../../../.gitbook/assets/266863962-ges03.jpg)
 
-## **Valoración dimensiones**
+## Valoración dimensiones
 
 Ofrece la posibilidad de valorar las dimensiones establecidas para el BIA
 
 ![](../../../.gitbook/assets/266863962-enc10.jpg)
 
-## **Preguntas Encuesta**
+## Preguntas Encuesta
 
 Permite el usuario definir puntos más genéricos a la hora de establecer un BIA, como pueden ser los siguientes:
 
@@ -61,7 +61,7 @@ Permite el usuario definir puntos más genéricos a la hora de establecer un BIA
 \*\*NOTA:\*\* Los resultados de la encuesta pueden ser descargados en formato editable .xlsx. Para ello se ha de pulsar sobre el botón ‘Descarga’, disponible en la parte superior e inferior de la ficha de la encuesta.
 {% endhint %}
 
-## **Seguimiento Encuesta**
+## Seguimiento Encuesta
 
 ![](../../../.gitbook/assets/266863962-enc11a.jpg)
 
@@ -69,7 +69,7 @@ Permite realizar un seguimiento de la encuesta, pudiendo realizar cualquier come
 
 En las encuestas publicadas, y completadas de forma anónima (a través de link), es posible enviar el seguimiento al responsable de la publicación para notificarle. Para ello, es necesario seleccionar el seguimiento deseado y pulsar "Enviar a Responsable".
 
-## **Consolidación Encuestas BIA**
+## Consolidación Encuestas BIA
 
 Una vez que la encuesta se encuentra contestada, ya sea mediante la publicación de la encuesta o mediante el registro directo en la opción de gestionar encuestas, se pueden consolidar los datos de la encuesta creada.
 

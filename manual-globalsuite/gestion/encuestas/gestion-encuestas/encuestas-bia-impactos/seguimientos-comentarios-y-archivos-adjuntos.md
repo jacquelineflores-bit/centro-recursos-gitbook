@@ -1,6 +1,6 @@
 # Seguimientos, comentarios y archivos adjuntos
 
-## **Seguimiento Encuesta**
+## Seguimiento Encuesta
 
 La sección **Seguimiento** muestra un historial detallado de las acciones realizadas sobre la encuesta. Cada fila de la tabla representa una modificación o evento registrado automáticamente por el sistema, lo que permite llevar un control de los cambios realizados a lo largo del tiempo.
 
@@ -19,7 +19,7 @@ Además, la tabla incluye controles en la parte superior para ordenar o filtrar 
 
 ![image-20250626-124832.png](../../../../.gitbook/assets/1236140042-image-20250626-124832.png)
 
-## **Comentarios**
+## Comentarios
 
 La encuesta BIA incluye una sección de **Comentarios** que permite la comunicación directa entre los participantes de la encuesta. A través de este espacio, los usuarios pueden dejar mensajes, aclaraciones, observaciones o solicitar información adicional relacionada con el contenido de la encuesta.
 
@@ -34,7 +34,7 @@ Cada comentario muestra:
 Los comentarios se presentan en orden cronológico y permanecen visibles para todos los usuarios con acceso a la encuesta.  
 Al final del apartado se incluye un campo habilitado para **escribir nuevos comentarios** y enviarlos en tiempo real.
 
-## **Archivos adjuntos**
+## Archivos adjuntos
 
 En esta sección se muestran los archivos adjuntos asociados a la encuesta. Estos documentos pueden servir como referencia para facilitar la cumplimentación de la encuesta, incluyendo guías, criterios, ejemplos o definiciones relevantes.
 
@@ -45,7 +45,7 @@ Los archivos pueden haberse añadido desde dos lugares distintos:
 
 Cada archivo se muestra con su nombre, una breve descripción y un icono de descarga. Esta sección permite consultar fácilmente toda la documentación de apoyo disponible para el usuario que responde la encuesta.
 
-## **Descargas**
+## Descargas
 
 Desde la encuesta, el usuario puede generar un informe descargable con todo el contenido completado hasta el momento. Para ello, debe presionar el botón de **Descarga** ubicado en la parte superior derecha de la pantalla.
 

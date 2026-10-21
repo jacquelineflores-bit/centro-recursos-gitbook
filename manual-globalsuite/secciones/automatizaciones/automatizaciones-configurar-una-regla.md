@@ -1,6 +1,6 @@
 # Automatizaciones: Configurar una regla
 
-# **Crear y configurar una regla**
+## Crear y configurar una regla
 
 |  |
 | --- |
@@ -8,7 +8,7 @@
 
 Cuando accedemos a la vista de configuración de una regla tenemos una vista donde poder editar y modelar la regla.
 
-## Estructura de la pantalla de edición
+### Estructura de la pantalla de edición
 
 La pantalla de una nueva regla se organiza en tres áreas principales:
 
@@ -18,7 +18,7 @@ La pantalla de una nueva regla se organiza en tres áreas principales:
 
 ![](../../.gitbook/assets/1843789849-att-0-for-1843789849.png)
 
-## Paso 1. Completar los detalles de la regla
+### Paso 1. Completar los detalles de la regla
 
 En el panel “*Detalles de la regla”* se definen los datos generales. Estos campos ayudan a identificar el propósito de la automatización y facilitan su mantenimiento posterior.
 
@@ -27,11 +27,11 @@ En el panel “*Detalles de la regla”* se definen los datos generales. Estos c
 
 ![](../../.gitbook/assets/1843789849-att-1-for-1843789849.png)
 
-## Paso 2. Revisar el disparador
+### Paso 2. Revisar el disparador
 
 El disparador determina cuándo debe evaluarse la regla. La regla siempre parte de un evento inicial, como la creación de un elemento o la modificación de un riesgo. El catálogo de condiciones y acciones disponibles depende del disparador seleccionado.
 
-## Paso 3. Añadir componentes
+### Paso 3. Añadir componentes
 
 Para añadir un componente, seleccione el botón “Añadir componente” situado debajo del paso correspondiente del constructor. El panel lateral mostrará los componentes disponibles para ese punto del flujo.
 
@@ -41,7 +41,7 @@ Para añadir un componente, seleccione el botón “Añadir componente” situad
 
 ![](../../.gitbook/assets/1843789849-att-2-for-1843789849.png)
 
-## Paso 4. Guardar o activar la regla
+### Paso 4. Guardar o activar la regla
 
 La regla puede guardarse sin activarse. Esta opción permite dejar la automatización preparada como borrador o pendiente de revisión.
 

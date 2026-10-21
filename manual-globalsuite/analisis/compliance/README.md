@@ -24,7 +24,7 @@ Cada tarjeta incluye:
 * Fecha de finalización.
 * Estado (**Activa** / **Histórico**).
 
-## **Acciones**
+## Acciones
 
 * **Crea una nueva evaluación :** Para crear un nuevo Compliance deberá pulsar el botón **Añadir**.  
   Al hacerlo, se abre una ventana modal con el listado de **catálogos disponibles** para crear la evaluación.   

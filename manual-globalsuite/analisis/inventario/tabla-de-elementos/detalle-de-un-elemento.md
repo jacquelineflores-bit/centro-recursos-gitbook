@@ -10,7 +10,7 @@ Este panel puede **expandirse** para facilitar la visualización.
 
 El panel lateral muestra la información estructurada en distintos bloques:
 
-### **Datos generales del elemento**
+### Datos generales del elemento
 
 En la parte superior se visualizan los datos generales del elemento, como el nombre, la categoría y los responsables.
 

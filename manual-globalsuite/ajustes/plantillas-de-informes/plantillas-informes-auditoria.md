@@ -16,7 +16,7 @@ Ambas plantillas contienen la estructura básica de información, tablas y etiqu
 
 ![image-20260828-223253.png](../../.gitbook/assets/1387241425-image-20260828-223253.png)
 
-## **Subir plantilla**
+## Subir plantilla
 
 En la opción **Subir plantilla**, los usuarios podrán cargar plantillas Word para:
 

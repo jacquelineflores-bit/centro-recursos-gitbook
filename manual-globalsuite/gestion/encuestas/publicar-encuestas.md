@@ -23,7 +23,7 @@ Las opciones que permite realizar la herramienta sobre la tabla inicial son las 
 
 Al pulsar sobre cualquier registro de la tabla, se accede a la información específica de la publicación de la encuesta.
 
-## **Datos Generales Encuesta**
+## Datos Generales Encuesta
 
 ![](../../.gitbook/assets/266863740-publicacion2.jpg)
 
@@ -66,7 +66,7 @@ Este sistema de notificaciones es una herramienta útil para garantizar que las 
 
 ![](../../.gitbook/assets/266863740-image-2023-9-25-16-15-44.png)
 
-### **Notificación de caducidad al destinatario de la encuesta**
+### Notificación de caducidad al destinatario de la encuesta
 
 El propósito de estas notificaciones es recordar a los destinatarios que deben completar la encuesta antes de su caducidad.
 
@@ -74,7 +74,7 @@ El propósito de estas notificaciones es recordar a los destinatarios que deben 
 
 ![](../../.gitbook/assets/266863740-image-2023-9-26-8-49-25.png)
 
-### **Notificación de caducidad al responsable de la encuesta**
+### Notificación de caducidad al responsable de la encuesta
 
 Este tipo de notificaciones son útiles para que los responsables puedan dar seguimiento a la encuesta y garantizar que se complete a tiempo. Así como tener identificadas aquellas encuestas que no fueron completadas oportunamente. 
 
@@ -141,7 +141,7 @@ Esta columna sólo aparece en las encuestas cuyo modelo posee estados configurad
 
 * **Finalizado:** Indica si la encuesta ha sido finalizada. Cada destinatario puede indicar si ha terminado una encuesta pulsando un botón disponible en la encuesta.
 
-## **Seguimiento Encuesta**
+## Seguimiento Encuesta
 
 ![](../../.gitbook/assets/266863740-enc15.jpg)
 

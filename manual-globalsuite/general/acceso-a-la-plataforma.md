@@ -1,6 +1,6 @@
 # Acceso a la Plataforma
 
-# **¿Cómo acceder a la plataforma?**
+## ¿Cómo acceder a la plataforma?
 
 El acceso a GlobalSuite® se realiza a través de [https://sg.globalsuite.es](https://sg.globalsuite.es/)/ en caso de la modalidad de distribución de Cloud General. Si la modalidad adquirida es Cloud Dedicado u On Premise, la URL será la que se haya definido durante el proceso de contratación.
 
@@ -45,7 +45,7 @@ Si el acceso a la plataforma es el primero que se realiza tras una actualizació
 
 Donde a través de un enlace, se podrá acceder al [Historial de Cambios de GlobalSuite®](https://changelog.globalsuitesolutions.com/changelog/) para consultar los cambios y mejoras incorporadas.
 
-### **Acceso mediante SAML SSO**
+#### Acceso mediante SAML SSO
 
 Si la organización tiene habilitado el inicio de sesión mediante SAML SSO, la pantalla de acceso mostrará la opción **“Iniciar con SAML SSO**”.  
 Al seleccionarla, se solicitará introducir únicamente el correo electrónico del usuario. GlobalSuite® identificará automáticamente la conexión configurada y realizará la autenticación sin necesidad de introducir la contraseña local ni utilizar una URL específica.
@@ -56,7 +56,7 @@ Si es la primera vez que un usuario accede y aún no tiene una cuenta creada, se
 
 ![gss-integracion.png](../.gitbook/assets/266863971-gss-integracion.png)
 
-# **¿Cómo Acceder al Portal del Centro de Soporte a Clientes GlobalSuite®?:**
+## ¿Cómo Acceder al Portal del Centro de Soporte a Clientes GlobalSuite®?:
 
 Para facilitar el acceso a nuestro [Portal de Soporte](https://support.globalsuite.es/servicedesk/customer/portal/1), hemos incluido un acceso directo en la parte inferior de la herramienta. Este acceso directo te permitirá acceder rápidamente a nuestro Portal de Soporte, donde podrás registrar dudas, solicitudes o incidencias relacionadas con el servicio.
 

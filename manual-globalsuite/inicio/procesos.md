@@ -4,7 +4,7 @@ Al acceder a la opción 'Procesos' se muestra una tabla inicial que contiene los
 
 ![](../.gitbook/assets/266863543-procesos1.jpg)
 
-# Listado de Procesos
+## Listado de Procesos
 
 Para crear un nuevo proceso se debe seleccionar el botón ‘Nuevo’ y a continuación aparecerá un nuevo registro en la tabla. Para eliminar un proceso creado se deberá seleccionar la fila o filas que se desean eliminar y a continuación pulsar sobre el botón ‘Eliminar’. El botón ‘Descarga’ permite descargar el listado de procesos en formato editable (.xlsx) o en formato PDF.
 
@@ -86,7 +86,7 @@ Esta sección del formulario permite realizar la valoración del proceso en las 
 
 Las dimensiones que aparecen son configurables en 'Ajustes - Metodologías Análisis - Configuración General'. Se puede indicar qué dimensiones son visibles y cuales no. En caso de que no haya ninguna dimensión visible, esta sección no se muestra en el formulario del proceso.
 
-# Árbol de Procesos
+## Árbol de Procesos
 
 Esta pestaña permite establecer el árbol de servicios y procesos, asociando los diferentes procesos de negocio a los servicios implicados en la gestión del sistema, así como establecer una jerarquía entre procesos (proceso primario, proceso secundario, etc.).
 
@@ -98,7 +98,7 @@ Los botones "Expandir" y "Contraer" permiten mostrar u ocultar el árbol de proc
 
 **NOTA:** Los servicios se definen en el apartado ‘Inicio/Catálogo de Servicios’.
 
-# Estructura y Procesos
+## Estructura y Procesos
 
 Esta pestaña permite visualizar la Unidad Organizativa responsable de cada servicio y proceso de la organización. A partir del árbol de procesos definido en la pestaña anterior, se muestran en diferentes columnas los niveles de la estructura organizativa y se indica a cual pertenece cada servicio y proceso.
 
@@ -114,7 +114,7 @@ Las opciones que se permite realizar sobre la tabla son las siguientes:
 
 * **Descarga:** El botón ‘Descarga’ permite descargar el listado de procesos en formato editable (.xlsx) o en formato PDF.
 
-# Partes Interesadas por Proceso
+## Partes Interesadas por Proceso
 
 Esta pestaña permite visualizar las partes interesadas de cada proceso de negocio, incluyendo los requisitos que tiene cada parte interesada. Adicionalmente, se indica el tipo de requisito así como la unidad organizativa de cada proceso.
 
@@ -124,7 +124,7 @@ Los botones "Expandir" y "Contraer" permiten mostrar u ocultar el árbol de proc
 
 El botón ‘Descarga’ permite descargar el listado de procesos, partes interesadas y requisitos en formato editable (.xlsx) o en formato PDF.
 
-# Propagación de Procesos
+## Propagación de Procesos
 
 La presente opción permite el propagar los procesos definidos en la empresa matriz a las subentidades que dependen de esta.
 

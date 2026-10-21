@@ -1,16 +1,16 @@
 # Tipos de Usuario
 
-# Datos del Usuario
+## Datos del Usuario
 
-## Categoría Rol
+### Categoría Rol
 
 El apartado de datos del usuario permite definir el nombre con el cual se accede a la plataforma, además del rol asignado al usuario. Los roles disponibles se dividen en dos categorías principales (Administrador Empresa y Usuario Empresa):
 
 ![image-20241018-135610.png](../../.gitbook/assets/266863832-image-20241018-135610.png)
 
-## **Rol**
+### Rol
 
-### **Administrador empresa**
+#### Administrador empresa
 
 En caso de seleccionar en el desplegable Categoría del Rol la opción **Administrador empresa**, los roles disponibles serán los siguientes:
 
@@ -22,7 +22,7 @@ En caso de seleccionar en el desplegable Categoría del Rol la opción **Adminis
 
 ![image-20241018-135850.png](../../.gitbook/assets/266863832-image-20241018-135850.png)
 
-#### **Roles específicos disponibles con la licencia Audit Management:**
+##### Roles específicos disponibles con la licencia Audit Management:
 
 * **Administrador Auditor:** El usuario tiene privilegios y acceso exclusivo a las funcionalidades relacionadas con la auditoría y podrá crear usuarios empresa con acceso únicamente a dichas funcionalidades.
 
@@ -54,7 +54,7 @@ Los roles que tendrán la capacidad de crearlos son los siguientes:
 El limite de usuarios Administradores Auditor y Sistema de Gestión por defecto será de 5 respectivamente. Además, este límite no podrá ser mayor a límite total de usuarios.
 {% endhint %}
 
-### **Usuario Empresa**
+#### Usuario Empresa
 
 En caso de seleccionar en el desplegable Categoría del Rol la opción **Usuario empresa**, los roles disponibles serán los siguientes:
 

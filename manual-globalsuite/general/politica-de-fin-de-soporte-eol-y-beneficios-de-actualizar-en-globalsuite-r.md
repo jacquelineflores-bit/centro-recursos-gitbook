@@ -1,12 +1,12 @@
 # Política de Fin de Soporte (EOL) y Beneficios de Actualizar en GlobalSuite®
 
-# Política de Fin de Soporte (EOL)
+## Política de Fin de Soporte (EOL)
 
 Información sobre el ciclo de vida de las versiones de GlobalSuite®. Aquí encontrarás fechas de disponibilidad, fin de soporte y las políticas de mantenimiento que garantizan la seguridad, estabilidad y sostenibilidad de tu entorno.
 
 ---
 
-## Versiones y Fechas de EOL
+### Versiones y Fechas de EOL
 
 | Versión | Disponible desde | Fin de Soporte (EOL) | Estado |
 | --- | --- | --- | --- |
@@ -62,19 +62,19 @@ Información sobre el ciclo de vida de las versiones de GlobalSuite®. Aquí enc
 \*Nota:\* Esta tabla se actualiza cuando se lanza cada nueva versión. Las fechas se actualizan automáticamente en el [changelog de GlobalSuite](https://help.globalsuitesolutions.com/es/changelog/v1).
 {% endhint %}
 
-### 🐳 Modelo basado en contenedores (a partir de Quantum 7.2)
+#### 🐳 Modelo basado en contenedores (a partir de Quantum 7.2)
 
 A partir de la versión *Quantum 7.2*, el modelo basado en contenedores está totalmente soportado para distribuciones *on-premise*. Esto permite una instalación, escalabilidad y mantenimiento más ágiles en entornos dedicados.
 
 ---
 
-## ¿Qué es el EOL?
+### ¿Qué es el EOL?
 
 GlobalSuite® establece una *política de fin de soporte (EOL) de 24 meses* para sus versiones appliance, contados desde la fecha de disponibilidad de cada versión. Una vez superado ese período, la versión quedará fuera de soporte.
 
 Esto significa que *no se realizarán correcciones de incidencias ni correcciones de vulnerabilidades* sobre dicha versión. Para seguir recibiendo soporte, mantenimiento correctivo y actualizaciones de seguridad, será necesario migrar a una versión más reciente soportada por GlobalSuite.
 
-### Objetivo de esta política
+#### Objetivo de esta política
 
 Esta política tiene como objetivo garantizar que los clientes trabajen sobre entornos más estables, seguros y alineados con la evolución del producto.
 
@@ -84,18 +84,18 @@ Esta política tiene como objetivo garantizar que los clientes trabajen sobre en
 
 ---
 
-## Beneficios de Actualizar
+### Beneficios de Actualizar
 
 La actualización a una versión más reciente debe entenderse como una medida que protege tu organización y mejora tu experiencia con GlobalSuite®. No se trata únicamente de tener una versión "más nueva", sino de trabajar sobre una base más robusta, más segura y más eficiente.
 
-### ¿Qué ocurre cuando se queda en versiones antiguas?
+#### ¿Qué ocurre cuando se queda en versiones antiguas?
 
 * Aumenta la probabilidad de convivir con incidencias ya corregidas en versiones más recientes.
 * Se complica el soporte porque el margen de actuación es menor y hay más dependencias envejecidas.
 * Crece la exposición a riesgos de seguridad e incompatibilidades con el entorno.
 * Se ralentiza el acceso a mejoras del producto y se encarece la operación a medio plazo.
 
-### ¿Qué ganas al actualizar?
+#### ¿Qué ganas al actualizar?
 
 * Menor exposición a incidencias conocidas y riesgos de seguridad.
 * Mejor capacidad de soporte y respuesta más rápida ante problemas.
@@ -104,21 +104,21 @@ La actualización a una versión más reciente debe entenderse como una medida q
 
 ---
 
-## Estados de las Versiones
+### Estados de las Versiones
 
-### 🟢 Versión Soportada
+#### 🟢 Versión Soportada
 
 La versión está dentro de su período de soporte (primeros 24 meses desde su disponibilidad).
 
 *Incluye:* Correcciones de incidencias, actualizaciones de seguridad, soporte técnico completo y asesoramiento en actualizaciones.
 
-### 🟡 En Período Transitorio
+#### 🟡 En Período Transitorio
 
 La versión está próxima a su EOL (últimas semanas o meses antes de finalizar los 24 meses).
 
 *Recomendación:* Planifica tu migración a una versión soportada. Te asistiremos en la transición y garantizamos soporte durante el período transitorio.
 
-### 🔴 Fuera de Soporte (EOL)
+#### 🔴 Fuera de Soporte (EOL)
 
 La versión ha superado los 24 meses desde su disponibilidad y ya no recibe soporte oficial.
 
@@ -126,11 +126,11 @@ La versión ha superado los 24 meses desde su disponibilidad y ya no recibe sopo
 
 ---
 
-## Alternativa: GlobalSuite Cloud
+### Alternativa: GlobalSuite Cloud
 
 Si prefieres simplificar la gestión de infraestructura y ciclos de actualización, *GlobalSuite Cloud* ofrece una alternativa que elimina la carga operativa:
 
-### Ventajas de Cloud
+#### Ventajas de Cloud
 
 * Menor dependencia de la infraestructura propia y de ciclos internos de mantenimiento.
 * GlobalSuite gestiona automáticamente actualizaciones, parches y seguridad.
@@ -140,39 +140,39 @@ Si prefieres simplificar la gestión de infraestructura y ciclos de actualizaci�
 
 ---
 
-## Preguntas Frecuentes
+### Preguntas Frecuentes
 
-### ¿Por qué GlobalSuite implementa una política de EOL?
+#### ¿Por qué GlobalSuite implementa una política de EOL?
 
 Para mantener un marco homogéneo y previsible que permita garantizar la calidad del servicio, reducir riesgos operativos y acompañar a nuestros clientes con planificación suficiente.
 
-### ¿Cuánto tiempo tengo para actualizar antes del EOL?
+#### ¿Cuánto tiempo tengo para actualizar antes del EOL?
 
 Las versiones tienen un período de soporte de 24 meses desde su disponibilidad. Recomendamos planificar la actualización con anticipación, no esperar al último momento. Te avisaremos cuando una versión entre en período transitorio.
 
-### ¿El cliente está obligado a pasar a Cloud?
+#### ¿El cliente está obligado a pasar a Cloud?
 
 No. Cloud es una alternativa recomendada en muchos casos, pero no es la única vía. Analizamos contigo qué opción aporta más valor: actualización appliance o evolución a Cloud.
 
-### ¿Qué pasa si no actualizo antes del EOL?
+#### ¿Qué pasa si no actualizo antes del EOL?
 
 Puedes seguir operando, pero tu entorno estará fuera de soporte oficial. Esto implica: sin correcciones de incidencias, sin actualizaciones de seguridad, riesgo operativo aumentado, y limitaciones progresivas de soporte técnico.
 
-### ¿Cómo explico esto internamente en mi compañía?
+#### ¿Cómo explico esto internamente en mi compañía?
 
 Te recomendamos presentarlo como una medida de protección: "Mantenemos actualizado nuestro entorno para trabajar de forma más segura, con menos riesgos y mejor soporte técnico".
 
-### ¿Mi versión actual funciona bien, ¿por qué debo actualizar?
+#### ¿Mi versión actual funciona bien, ¿por qué debo actualizar?
 
 Que hoy funcione bien no elimina el deterioro progresivo de soporte y seguridad. Anticiparnos evita que después aparezcan limitaciones mayores, incompatibilidades o problemas más complejos.
 
-### ¿Cómo contacto para hablar de mi actualización?
+#### ¿Cómo contacto para hablar de mi actualización?
 
 Tu equipo de Customer Success está disponible para guiarte en cada paso. También puedes contactar con ventas para explorar opciones Cloud o necesidades especiales.
 
 ---
 
-## ¿Necesitas Ayuda?
+### ¿Necesitas Ayuda?
 
 GlobalSuite te acompaña en cada paso de tu evolución tecnológica. Nuestro equipo está disponible para:
 

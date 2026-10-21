@@ -8,7 +8,7 @@ Su objetivo es apoyar al usuario en la evaluación del cumplimiento, la identifi
 
 El panel dispone de las siguientes funcionalidades:
 
-## **Asistente GSS-IA**
+## Asistente GSS-IA
 
 Permite analizar el catálogo de Compliance mediante inteligencia artificial para facilitar su evaluación.
 
@@ -34,4 +34,4 @@ El asistente permite incorporar automáticamente las propuestas generadas dentro
 
 ![image-20250925-143839.png](../../../.gitbook/assets/1656619021-image-20250925-143839.png)
 
-## **¿Qué requisitos me aplican?**
+## ¿Qué requisitos me aplican?

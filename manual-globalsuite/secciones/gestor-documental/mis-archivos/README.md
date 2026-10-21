@@ -4,7 +4,7 @@ En la pestaña **Mis archivos** se muestra el repositorio de las carpetas y docu
 
 La pantalla se compone de los siguientes elementos:
 
-## **Indicadores superiores**
+## Indicadores superiores
 
 Muestran información resumida del contenido almacenado:
 
@@ -28,7 +28,7 @@ En la parte superior de la pantalla se muestra la **ruta de navegación**, que p
 
 ![image-20260305-194823.png](../../../.gitbook/assets/1610383386-image-20260305-194823.png)
 
-## **Acciones**
+## Acciones
 
 Permite realizar acciones sobre los elementos seleccionados, como:
 
@@ -41,7 +41,7 @@ Permite realizar acciones sobre los elementos seleccionados, como:
 * **Descargar**: descargar el archivo seleccionado.
 * **Descargar CSV**: exportar el listado de elementos en formato CSV.
 
-## **Tabla de archivos y carpetas**
+## Tabla de archivos y carpetas
 
 Muestra el listado de carpetas y documentos almacenados. En esta tabla se pueden visualizar datos como:
 

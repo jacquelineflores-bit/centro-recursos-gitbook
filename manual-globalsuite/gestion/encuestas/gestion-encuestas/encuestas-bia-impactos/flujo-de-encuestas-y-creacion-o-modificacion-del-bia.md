@@ -2,7 +2,7 @@
 
 Las encuestas pueden incluir funcionalidades relacionadas con su ciclo de vida, como el uso de botones de acción para gestionar los distintos estados (cuando están configurados), y la posibilidad de crear o modificar un Análisis de Impacto en el Negocio (BIA) a partir de las respuestas registradas.
 
-## **Botones de flujo**
+## Botones de flujo
 
 ![image-20250626-071511.png](../../../../.gitbook/assets/1236140068-image-20250626-071511.png)
 
@@ -14,7 +14,7 @@ En cambio, cuando la encuesta cuenta con un flujo de estados definidos, podrán 
 
 Adicionalmente, si los estados son de tipo manual, su gestión no se realiza desde la propia encuesta, sino a través del apartado Publicaciones en el gestor de encuestas.
 
-## **Crear o Modificar BIA**
+## Crear o Modificar BIA
 
 * El botón “Crear BIA” aparece únicamente cuando la encuesta no tiene un BIA asociado previamente o fue generada a partir de un BIA consolidado. Este botón no se muestra en accesos externos.
 * El botón “Modificar BIA” se muestra cuando ya existe un BIA individual vinculado a la encuesta, ya sea porque se generó desde un BIA individual o porque ya se consolidó anteriormente. Tampoco está disponible en accesos externos.

@@ -1,6 +1,6 @@
 # Encuestas RRHH Críticos
 
-## **Datos generales Encuesta**
+## Datos generales Encuesta
 
 Permite definir la siguiente información:
 
@@ -18,7 +18,7 @@ Permite definir la siguiente información:
 
 * **Comentario:** Indica comentarios adicionales en la encuesta.
 
-## **Contestación de la encuesta**
+## Contestación de la encuesta
 
 El presente apartado permite al usuario seleccionar las personas del comité que quiere definir o modificar.
 

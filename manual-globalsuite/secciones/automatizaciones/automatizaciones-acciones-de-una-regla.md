@@ -1,12 +1,12 @@
 # Automatizaciones: Acciones de una regla
 
-# **Acciones de una regla**
+## Acciones de una regla
 
 |  |
 | --- |
 | La acción es la tarea que GlobalSuite® ejecuta cuando la regla se activa y se cumplen las condiciones configuradas. Para que una regla pueda activarse debe existir al menos una acción correctamente configurada. |
 
-## Catálogo inicial de acciones
+### Catálogo inicial de acciones
 
 |  |  |  |
 | --- | --- | --- |
@@ -21,7 +21,7 @@
 | Copiar amenazas y controles | Copia amenazas y controles desde otro contexto configurado. | Reutilizar una configuración ya validada. |
 | Copiar datos en BIA consolidado | Copia información del BIA individual hacia el BIA consolidado. | Consolidar información al finalizar una encuesta BIA. |
 
-## Configurar una acción
+### Configurar una acción
 
 Al seleccionar una acción en el constructor, el panel lateral muestra los campos necesarios para completarla. Los campos obligatorios deben rellenarse antes de activar la regla.
 
@@ -29,7 +29,7 @@ Al seleccionar una acción en el constructor, el panel lateral muestra los campo
 
 *Panel de selección de acciones disponibles para el punto seleccionado del flujo.*
 
-## Ejemplo: enviar un correo electrónico
+### Ejemplo: enviar un correo electrónico
 
 La acción Enviar un correo electrónico permite definir destinatarios, copia, asunto y contenido. Los destinatarios pueden ser usuarios concretos o variables disponibles en el contexto de la regla.
 
@@ -61,7 +61,7 @@ Para la configuración del asunto y mensaje de correo electrónico existen una s
 * {{survey.name}}: Nombre de la encuesta de BIA que se ha consolidado
 * {{survey.recipient}}: Nombre del destinatario que tenía asignada la encuesta afectada
 
-## Acciones con selección de catálogos o análisis
+### Acciones con selección de catálogos o análisis
 
 Algunas acciones requieren seleccionar un análisis de riesgo, un catálogo, controles concretos o dimensiones aplicables. Si no se completa la selección obligatoria, la regla queda pendiente de configuración o muestra una validación en el panel lateral.
 

@@ -48,7 +48,7 @@ La columna Tipo permite filtrar las comunicaciones por los siguientes parámetro
 
 Es posible descargar el listado de comunicaciones a través del botón ![](../.gitbook/assets/259817559-image2021-4-8-18-13-20.png)  que aparece en la parte superior, en formato CSV, para su almacenamiento o tratamiento posterior. Este informe tiene en cuenta los filtros y selección de columnas que se hayan aplicado sobre la vista.
 
-## Visualización general de la Comunicación, Estado, ID de la comunicación  y comunicador/emisor.
+## Visualización general de la Comunicación, Estado, ID de la comunicación y comunicador/emisor.
 
 Pulsando el enlace que aparece en el Identificador de la comunicación, nos aparecerá la vista de detalle de la comunicación.
 

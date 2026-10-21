@@ -2,7 +2,7 @@
 
 Al crear un nuevo análisis de riesgos accedemos a un formulario, que permite definir una serie de parámetros con los que poder configurar el análisis de riesgos.
 
-# Datos Generales
+## Datos Generales
 
 ![image-20250605-062425.png](../../.gitbook/assets/266863425-image-20250605-062425.png)
 
@@ -25,7 +25,7 @@ Al crear un nuevo análisis de riesgos accedemos a un formulario, que permite de
 * **Cálculo de Riesgo Global por Análisis:** Permite seleccionar un criterio para calcular el nivel de Riesgo Global para el Análisis de Riesgos. El valor de Riesgo Global por Análisis se calcula en función de los valores de RGA de cada activo que están asociados al análisis de riesgos. Los criterios disponibles son 'Mínimo', 'Máximo', 'Media' y 'Acumulado'.
 * **Apetito de riesgo:** Permite determinar la cantidad de riesgo que se desea asumir en la consecución de los objetivos.
 
-## Catálogos
+### Catálogos
 
 ![](../../.gitbook/assets/266863425-ana8.jpg)
 
@@ -33,7 +33,7 @@ La opción permite al usuario seleccionar aquellos catálogos previamente defini
 
 Dependiendo de la tipología de análisis a realizar se podrán seleccionar tantos catálogos como sean necesarios para el usuario encargado de realizar el análisis de riesgos.
 
-## Árbol de Dependencias
+### Árbol de Dependencias
 
 ![](../../.gitbook/assets/266863425-ana9.jpg)
 

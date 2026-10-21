@@ -5,7 +5,7 @@ Este apartado permite la parametrización de listas desplegables ubicadas en las
 {% endhint %}
 ![image-20241021-125537.png](../../.gitbook/assets/266863916-image-20241021-125537.png)
 
-## **Áreas afectadas:**
+## Áreas afectadas:
 
 Permite al usuario incorporar diferentes áreas afectadas que podrán asignarse a los tickets. Utilizando los botones ‘Nueva’ y ’Eliminar’ se permite crear nuevas áreas o eliminar las áreas ya existentes, así como editar su nombre haciendo doble click sobre la fila.
 
@@ -16,6 +16,6 @@ La herramienta propone por defecto las áreas de Capacidad, Suministradores, Seg
 * **Seguridad:** Todos los tickets se pueden asignar a este área para indicar que se trata de un ticket relacionado con la seguridad.
 * **Disponibilidad:** Las incidencias, no conformidades e indicadores que tienen este área asignada se podrán consultar en los planes de disponibilidad elaborados en la opción 'Disponibilidad' del menú 'Planes'.
 
-## **Tipos de teléfonos de Empleados:**
+## Tipos de teléfonos de Empleados:
 
 Permite crear diferentes tipos de teléfonos para identificar el teléfono de cada empleado (fijo, personal, móvil, trabajo, etc.). Los tipos configurados en esta tabla aparecen en el formulario de Empleados, dónde para cada empleado se permite crear más de un teléfono. Utilizando los botones 'Nuevo' y 'Eliminar' se permite crear nuevos tipos o eliminar los tipos ya existentes, así como editar su nombre haciendo doble click sobre la fila.

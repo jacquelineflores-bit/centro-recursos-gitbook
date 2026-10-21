@@ -18,7 +18,7 @@ A continuación se desarrolla la funcionalidad que aporta cada una de las tablas
 
   ![image-20260225-154300.png](../../.gitbook/assets/266864279-image-20260225-154300.png)
 
-## **Filtros específicos:**
+## Filtros específicos:
 
 * Ofrece la posibilidad de visualizar los activos filtrando por una o varias categorías.
 * ![image-20260225-154411.png](../../.gitbook/assets/266864279-image-20260225-154411.png)

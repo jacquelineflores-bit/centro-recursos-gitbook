@@ -145,7 +145,7 @@ Esta opción permite configurar la visualización de la tabla, posibilitando mos
 
 ![image-20260317-204404.png](../../../.gitbook/assets/266864234-image-20260317-204404.png)
 
-### **Vista (Normal / Pequeño / Cómodo)**
+### Vista (Normal / Pequeño / Cómodo)
 
 Permite ajustar la densidad de visualización de la tabla.  
 Por defecto, la vista se muestra en modo **Normal**. Al hacer clic sobre esta opción, se puede alternar entre los modos **Pequeño** y **Cómodo**, lo que modifica la altura de las filas para mostrar más o menos información en pantalla.

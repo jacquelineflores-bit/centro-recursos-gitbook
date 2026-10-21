@@ -1,12 +1,12 @@
 # Encuestas Elementos, Riesgos y Controles
 
-## **Página inicial de la encuesta**
+## Página inicial de la encuesta
 
 Cuando se accede a una encuesta, la primera pantalla que aparece es la de onboarding, donde se puede ver la información
 
 En caso de que se haya creado la encuesta a través de una Publicación, el mensaje informativo podrá ser sustituido por el que se indique en el apartado Comentarios de la publicación, para
 
-## **Menú de la encuesta**
+## Menú de la encuesta
 
 **Acciones de la encuesta**
 
@@ -28,13 +28,13 @@ Dependiendo de la configuración y el modelo de encuesta utilizado, la encuesta 
 * **Avisar Responsable:** Permite enviar una alerta o recordatorio mediante correo electrónico al responsable asignado a la encuesta.
 * **Calcular AR**: Este botón permite calcular las dimensiones automáticas de la metodología, a partir de las dimensiones manuales. Este botón sólo aparecerá si así se ha configurado en el modelo de encuesta. En caso contrario, las dimensiones se actualizarán directamente tras cada cambio de las manuales.
 
-## **Información de la encuesta**
+## Información de la encuesta
 
 El presente apartado permite al usuario visualizar las metodologías y dimensiones (Inventario, Análisis Riesgos y/o Gestión de Controles) en base a las cuales se realizará la encuesta de Elementos, Riesgos y/o Controles.
 
 ![](../../../../.gitbook/assets/266864041-gs09.jpg)
 
-## **Datos generales encuesta**
+## Datos generales encuesta
 
 Permite definir la siguiente información:
 
@@ -54,7 +54,7 @@ La presente opción permite al usuario valorar los elementos, riesgos y controle
 
 *Nota: En función del tipo de encuesta (Elementos, Riesgos, Controles), aparecerán unas u otras tablas en la encuesta.*
 
-## **Tabla Elementos**
+## Tabla Elementos
 
 ![](../../../../.gitbook/assets/266864041-gs11.jpg)
 
@@ -64,7 +64,7 @@ La tabla de elementos permite valorar las dimensiones de los elementos que se ha
 \*\*NOTA:\*\* Si la encuesta ha sido configurada con el formato "Tabla", no aparecerán las preguntas de la parte derecha realizándose la valoración directamente sobre la tabla de elementos.
 {% endhint %}
 
-## **Tabla Riesgos**
+## Tabla Riesgos
 
 ![](../../../../.gitbook/assets/266864041-gs12.jpg)
 
@@ -74,7 +74,7 @@ La tabla de riesgos permite valorar los riesgos de los elementos seleccionados e
 \*\*NOTA:\*\* Si la encuesta ha sido configurada con el formato "Tabla", no aparecerán las preguntas de la parte derecha realizándose la valoración directamente sobre la tabla de riesgos.
 {% endhint %}
 
-## **Tabla de Controles**
+## Tabla de Controles
 
 En función de si se trata de una encuesta de sólo controles o una encuesta de riesgos y controles, la tabla de controles se muestra de una forma u otra.
 
@@ -104,7 +104,7 @@ Además, si se han incluido Evidencias de los controles en la encuesta, al selec
 
 ![](../../../../.gitbook/assets/266864041-gs12-controles4.jpg)
 
-## **Seguimiento encuesta**
+## Seguimiento encuesta
 
 ![](../../../../.gitbook/assets/266864041-enc11a-2.jpg)
 

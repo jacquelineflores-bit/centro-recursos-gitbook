@@ -1,6 +1,6 @@
 # Encuestas Empleados
 
-## **Datos generales encuesta**
+## Datos generales encuesta
 
 ![](../../../.gitbook/assets/266863924-gs15.jpg)
 
@@ -14,19 +14,19 @@ Permite definir la siguiente información:
 * **Email:** Ofrece la posibilidad de incluir la dirección de correo para que el responsable sea notificado de cualquier modificación.
 * **Fecha:** Posibilita establecer la fecha de realización de la encuesta.
 
-## **Preguntas**
+## Preguntas
 
 ![](../../../.gitbook/assets/266863924-gs13.jpg)
 
 El presente apartado permite al usuario contestar a aquellas preguntas que han sido definidas en el apartado de 'Ajustes/Modelos de encuestas' y configuradas en el apartado de 'Gestión/Configuración encuestas', donde se establece en base a que modelo se genera la encuesta de empleados.
 
-## **Roles**
+## Roles
 
 ![](../../../.gitbook/assets/266863924-gs14.jpg)
 
 Permite al responsable de generar la encuesta visualizar los roles que le han sido asignados inicialmente, pudiendo cargar roles adicionales en la encuesta. Para ello se ha de seleccionar el rol deseado en el desplegable y pulsar sobre el botón 'Añadir'. En el caso de querer desasociar un rol determinado, se ha de seleccionar el mismo en la tabla y pulsar sobre el botón 'Eliminar'.
 
-## **Seguimiento encuesta**
+## Seguimiento encuesta
 
 ![](../../../.gitbook/assets/266863924-enc11a-3.jpg)
 

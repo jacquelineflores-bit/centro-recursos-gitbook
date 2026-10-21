@@ -4,19 +4,19 @@
 En este apartado se indican las distintas modalidades de distribución para GlobalSuite® y se indican las principales características comunes y específicas para cada una de ellas. En caso de necesitar más información sobre algún aspecto, ponte en contacto con el equipo de soporte.
 {% endhint %}
 
-# Principales características
+## Principales características
 
 ![image-20260324-154549.png](../.gitbook/assets/1663434753-image-20260324-154549.png)
 
-### Cloud GlobalSuite®
+#### Cloud GlobalSuite®
 
-##### Software as a Service en la infraestructura de GlobalSuite®
+###### Software as a Service en la infraestructura de GlobalSuite®
 
 ![image-20260324-160507.png](../.gitbook/assets/1663434753-image-20260324-160507.png)
 
-### On Premise
+#### On Premise
 
-##### Despliegue mediante contenedores en infraestructura del cliente
+###### Despliegue mediante contenedores en infraestructura del cliente
 
 •Reducción de costes.
 
@@ -46,7 +46,7 @@ En este apartado se indican las distintas modalidades de distribución para Glob
 
 •Consta de la infraestructura básica (sin alta disponibilidad ni copias de seguridad).
 
-## Detalle de características de modalidades Cloud y Onprem
+### Detalle de características de modalidades Cloud y Onprem
 
 1. **Infraestructura GlobalSuite®:**
 
@@ -102,7 +102,7 @@ Las medidas de seguridad dependen de la red interna de la compañía.
 
 ![image-20260324-154549.png](../.gitbook/assets/1663434753-image-20260324-154549.png)
 
-## Características Cloud GlobalSuite®
+### Características Cloud GlobalSuite®
 
 1. **Personalización GlobalSuite®:**
 
@@ -124,11 +124,11 @@ Estos entornos cuentan una capa de seguridad adicional debido al aislamiento tan
 
 Los recursos para realizar grandes procesamientos de datos (cálculos, generación de informes) se gestionan de manera independiente, por lo que no se ven afectados por picos de usuarios o trabajos concurrentes en otras instancias de GlobalSuite®.
 
-# Capacidades exclusivas GlobalSuite Cloud
+## Capacidades exclusivas GlobalSuite Cloud
 
 Dentro de las capacidades y funcionalidades avanzadas que incorporan los distintos módulos de GlobalSuite® existen algunas que sólo están disponibles en modalidad Cloud, entre las que destacan:
 
-### Asistentes de Inteligencia Artificial
+#### Asistentes de Inteligencia Artificial
 
 Los distintos asistentes y agentes de Inteligencia Artificial integrados en varios módulos de GlobalSuite® están disponibles únicamente en modalidades Cloud, ya que de esta forma pueden utilizar de forma segura y controlada el servicio y ecosistema propio detallado en [este apartado](ia-mecanismos-de-seguridad-en-globalsuite.md).
 
@@ -139,13 +139,13 @@ Las principales características de IA incorporadas a GlobalSuite cloud son:
 * [Procesamiento de documentos con IA](https://globalsuitesolutions.atlassian.net/wiki/spaces/GlobalSUITEes/pages/1196425281/C+mo+procesar+documentos+con+IA+desde+el+Gestor+Documental+de+GlobalSuite): Asistente para analizar y proponer mejoras sobre los documentos incorporados al gestor documental del sistema.
 * [Asistente de Compliance para IA](../analisis/compliance/asistente-de-ia-que-requisitos-aplican.md): Asistente para analizar una evaluación de cumplimiento (una normativa) de GlobalSuite, identificando los puntos más importantes y realizando mejoras o propuestas para adecuarse a la misma.
 
-### Business Intelligence
+#### Business Intelligence
 
 El módulo de [GlobalSuite® Análisis BI](../analisis-bi-reportes-e-informes/README.md) permite integrar las capacidades de visualización y ayuda a la toma de decisiones directamente en GlobalSuite®, aportando informes interactivos, gráficas y tablas dentro de la solución. Tanto visualizaciones predefinidas como dashboards personalizados con distintas fuentes de datos del ecosistema corporativo que permiten cruzar y explotar la información en este módulo de inteligencia empresarial.
 
 ![](../.gitbook/assets/1663434753-image-20240315-132308.png)
 
-### Marketplace de Integraciones (Conectores Predefinidos)
+#### Marketplace de Integraciones (Conectores Predefinidos)
 
 GlobalSuite® dispone de un [Marketplace](https://globalsuitesolutions.atlassian.net/wiki/spaces/MIG) de conectores que permite integrar la información del GRC de forma sencilla, segura y eficiente con otras herramientas comerciales o corporativas utilizadas en la organización. Dispone de un catálogo de conectores out-of-the-box que permiten configurar y sincronizar los datos de forma rápida y directa en instancias de GlobalSuite Cloud.
 

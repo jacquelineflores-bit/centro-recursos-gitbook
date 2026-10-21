@@ -6,7 +6,7 @@ La opción Mi Perfil permite al gestor modificar los datos correspondientes a su
 
 ![image-20241018-131110.png](../../.gitbook/assets/266863837-image-20241018-131110.png)
 
-# **Datos Personales**
+## Datos Personales
 
 GlobalSUITE ofrece la posibilidad de definir los siguientes datos personales:
 
@@ -16,7 +16,7 @@ GlobalSUITE ofrece la posibilidad de definir los siguientes datos personales:
 * **e-Mail:** Ofrece la posibilidad de indicar el correo corporativo del gestor.
 * **Idioma:** Permite definir el idioma con el que el usuario visualizará la plataforma. El listado de idiomas a seleccionar por el usuario será el mismo que los idiomas configurados a nivel de empresa (ver la opción [Datos Empresa](../../ajustes/datos-empresa.md)).
 
-# **Configurar Notificaciones y Datos del Usuario**
+## Configurar Notificaciones y Datos del Usuario
 
 Las notificaciones son correos electrónicos que GlobalSUITE envía de forma automática, en el caso de estar marcada la casilla, para alertar al usuario de la proximidad a la caducidad de las licencias de la propia empresa o de las empresas dependientes en el caso de ser un usuario organizativo.
 
@@ -28,13 +28,13 @@ También muestra información sobre el rol asignado al usuario (ver opción [Tip
 
 En caso de que el usuario desee modificar la contraseña, puede cambiarla pulsando sobre el enlace ‘¿Desea cambiar su contraseña?’. La contraseña seleccionada debe cumplir la política de contraseña de la plataforma, detallada en el apartado [Acceso a la Plataforma.](../acceso-a-la-plataforma.md)
 
-# **Doble Factor Autenticación**
+## Doble Factor Autenticación
 
 Este apartado permite a los usuarios la posibilidad de activar o desactivar el Doble factor de seguridad, solo en el caso de que se haya configurado como Opcional en Ajustes > Configuración > General > [Configuración empresa](https://help.globalsuite.es/pages/viewpage.action?pageId=78808338)
 
 Se deberá pulsar el botón Activar Doble factor y seguir los pasos indicados en la ventana emergente. Dichos pasos dependerán de si el 2FA es por TOTP o Correo Electrónico:
 
-## **Doble Factor Autenticación - TOTP.**
+### Doble Factor Autenticación - TOTP.
 
 ![image-20241018-131349.png](../../.gitbook/assets/266863837-image-20241018-131349.png)
 
@@ -42,18 +42,18 @@ Se deberá pulsar el botón Activar Doble factor y seguir los pasos indicados en
 \*\*NOTA:\*\* Esta ventana es la misma que aparece cuando un usuario accede por primera vez si el Doble Factor esta configurado como obligatorio en Ajustes> Configuración > General > [Configuración empresa](https://help.globalsuite.es/pages/viewpage.action?pageId=78808338)
 {% endhint %}
 
-## **Doble Factor Autenticación - Correo Electrónico.**
+### Doble Factor Autenticación - Correo Electrónico.
 
 ![image-20251015-091701.png](../../.gitbook/assets/266863837-image-20251015-091701.png)
 {% hint style="info" %}
 \*\*NOTA:\*\* Esta ventana es la misma que aparece cuando un usuario accede por primera vez si el Doble Factor esta configurado como obligatorio en Ajustes> Configuración > General > [Configuración empresa](https://help.globalsuite.es/pages/viewpage.action?pageId=78808338)
 {% endhint %}
 
-## **Desactivar Doble Factor Autenticación .**
+### Desactivar Doble Factor Autenticación .
 
 En ambos casos, si lo que se quiere es desactivarlo, se deberá pulsar el botón Desactivar Doble Factor. Si la Doble Autenticación se configuró como obligatoria, tras desactivarla se requerirá activarlo de nuevo para poder continuar.
 
-# **Huso horario**
+## Huso horario
 
 ![image-20241018-131441.png](../../.gitbook/assets/266863837-image-20241018-131441.png)
 

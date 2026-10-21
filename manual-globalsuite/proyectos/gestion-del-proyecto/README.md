@@ -31,7 +31,7 @@ La tabla del proyecto dispone de una serie de columnas que ofrecen la siguiente 
 \*\*NOTA:\*\* Cada una de las tareas es modificable pulsando sobre el nombre.
 {% endhint %}
 
-## **Proyecto(Primer Nivel):**
+## Proyecto(Primer Nivel):
 
 Si pulsamos sobre el nombre del proyecto se muestra un formulario sobre el que podemos definir los siguientes puntos
 
@@ -64,7 +64,7 @@ Muestra de manera centralizada las horas dedicadas y gastos asociados de las tar
 
 ![image-20241114-163813.png](../../.gitbook/assets/266864154-image-20241114-163813.png)
 
-## **Tareas (Niveles):**
+## Tareas (Niveles):
 
 Al pulsar una tarea las opciones de modificación son las siguientes:
 

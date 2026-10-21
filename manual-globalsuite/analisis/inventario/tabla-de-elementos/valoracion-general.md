@@ -22,7 +22,7 @@ La edición del valor se realiza directamente sobre la celda y el tipo de campo 
 
 ## Acciones
 
-### **Aplicar**
+### Aplicar
 
 Este botón muestra un menú con acciones de aplicación masiva sobre las categorías seleccionadas.
 

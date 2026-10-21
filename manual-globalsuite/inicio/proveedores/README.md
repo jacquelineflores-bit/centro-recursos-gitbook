@@ -5,7 +5,7 @@ Para configurar los campos, tanto en la tabla principal como en el formulario pr
 Para ajustar las dimensiones visibles acceda a \*\*Ajustes>\*\* [\*\*Metodología de Elementos\*\*](https://help.globalsuitesolutions.com/es/globalsuite/v1/metodologia-elementos#Metodolog%C3%ADaElementos-Configuraci%C3%B3nVisibilidadDimensiones)
 {% endhint %}
 
-### **Tabla Principal**
+### Tabla Principal
 
 La opción de ‘Proveedores’ permite al usuario de la plataforma tener una base de datos con todos aquellos proveedores necesarios para la prestación de los servicios implicados dentro del alcance.
 
@@ -18,7 +18,7 @@ En la pantalla inicial se puede ver el listado con los proveedores almacenados. 
 * **Evaluar**: Permite realizar una evaluación del proveedor.
 * **Crear Elemento Asociado:**Esta opción permite crear un elemento asociado a los proveedores.
 
-### **Formulario**
+### Formulario
 
 Al hacer clic en la opción, aparecerá una ventana emergente en la que se podrán seleccionar uno o varios proveedores para crearles un elemento asociado.
 
@@ -86,7 +86,7 @@ Esta sección del formulario permite realizar la valoración del proveedor en la
 
 Las dimensiones que aparecen son configurables en 'Ajustes - Metodologías Análisis - Configuración General'. Se puede indicar qué dimensiones son visibles y cuales no. En caso de que no haya ninguna dimensión visible, esta sección no se muestra en el formulario del proveedor.
 
-### **Propagación de Proveedores**
+### Propagación de Proveedores
 
 La presente opción permite la propagar los proveedores definidos en la empresa matriz a las subentidades que dependen de esta.
 
@@ -105,7 +105,7 @@ Una vez se ha accedido a la opción, se muestran las siguientes tablas:
 
 **Tabla inferior derecha:** Una vez seleccionada la subentidad en la tabla superior, muestra los proveedores que se han asociado a la misma. La herramienta ofrece la posibilidad de eliminiar un proveedor asociado, para ello se ha de seleccionar la fila deseada y pulsar sobre el botón 'Eliminar'.
 
-### **Consolidación de Proveedores**
+### Consolidación de Proveedores
 
 La presente opción permite visualizar de manera resumida los diferentes proveedores asociados a la entidad y subentidades.
 

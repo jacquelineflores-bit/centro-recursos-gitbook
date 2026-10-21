@@ -29,7 +29,7 @@ Este apartado permite al usuario de la herramienta definir los valores necesario
 
 ### Categorías
 
-### **Categoría activos:**
+### Categoría activos:
 
 Opción que permite definir las categorías o subcategorías a las que asociar los activos del inventario y la CMDB. Para crear categorías se ha de pulsar sobre el botón 'Nueva categoría', lo que genera una nueva entrada en la tabla en el primer nivel. En el caso de querer generar niveles asociados a una categoría, se ha de pulsar sobre el botón 'Nueva Subcategoría'. Al generar una nueva entrada en la tabla, la herramienta asocia un icono por defecto, pudiendo modificar el mismo seleccionado la categoría/subcategoría deseada y pulsando sobre el botón 'Cambiar Icono'.
 
@@ -85,7 +85,7 @@ La información que nos ofrece la tabla es la siguiente:
 * **Valor Mínimo:** Identifica el número mínimo sobre el cual se calcula la fórmula de la dimensión seleccionada.
 * **Acumulado:** Posibilita incluir y establecer las dependencias de la dimensión seleccionada (Tabla de dependencias) y visualizar los valores acumulados de esta en el apartado 'Análisis/Inventario de Activos'
 
-#### **Tipo de dimensión**
+#### Tipo de dimensión
 
 Ofrece la posibilidad de establecer el método de cálculo de las dimensiones, pudiendo optar entre las siguientes:
 
@@ -93,7 +93,7 @@ Ofrece la posibilidad de establecer el método de cálculo de las dimensiones, p
 * **Cualitativa:** Permite definir que el cálculo de la dimensión seleccionada sea cualitativo, pudiendo establecer un rango de valores determinado (ejemplo: Alto, Medio, Bajo).
 * **Texto:** Permite definir que el valor de la dimensión sea de tipo texto libre, pudiendo introducir cualquier valor alfanumérico.
 
-#### **Valor**
+#### Valor
 
 Permite definir cómo se realizará el cálculo de la dimensión seleccionada en la tabla superior, pudiendo establecerse como:
 
@@ -101,7 +101,7 @@ Permite definir cómo se realizará el cálculo de la dimensión seleccionada en
 * **Automático**: El valor se calcula automáticamente en base a una configuración previa, pudiendo definirse el tipo de cálculo (fórmulas, fórmulas con condicionales o producto cartesiano).
 * **Multinivel**: Permite seleccionar varios valores de la dimensión en lugar de uno único. Esta opción solo está disponible para dimensiones de tipo Cualitativa.
 
-#### **Tipo de cálculo**
+#### Tipo de cálculo
 
  En el caso de haber seleccionado en la opción anterior un cálculo automático, la herramienta ofrece las siguientes opciones:
 

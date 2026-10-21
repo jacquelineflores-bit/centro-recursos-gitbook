@@ -1,6 +1,6 @@
 # Metodologías Auditorías
 
-# General
+## General
 
 {% hint style="info" %}
 Este apartado permite configurar:
@@ -10,9 +10,9 @@ Este apartado permite configurar:
 \* Configuración de campos
 {% endhint %}
 
-## Configuración General
+### Configuración General
 
-### Tipos de Auditor
+#### Tipos de Auditor
 
 * **Nuevo:** Permite crear un "Nuevo tipo de auditor", habrá que pulsar encima del botón nuevo para ello.
 * **Eliminar:** Elimina un tipo de auditor que previamente se haya creado. Para ello hay que pulsar encima de alguno de los que estén ya creados que será el registro que se elimine.
@@ -21,13 +21,13 @@ Para traducir el nombre de los tipos de auditor a otros idiomas disponibles, es 
 
 ![image-20250304-132900.png](../../.gitbook/assets/266864008-image-20250304-132900.png)
 
-### Código de Plan
+#### Código de Plan
 
 Al marcar el check Código de Plan, los campos "Código de Plan" y "Código de Trabajo" se mostrarán en los formularios, tablas e informes correspondientes.
 
 Al activarlo, se habilitan las opciones de configuración para el Código de Trabajocomo Manual o Automático.
 
-### Código de trabajo - Manual
+#### Código de trabajo - Manual
 
 En los formularios correspondientes, el campo 'Código de Trabajo' estará habilitado para edición.
 
@@ -35,7 +35,7 @@ En los formularios correspondientes, el campo 'Código de Trabajo' estará habil
 * Sin validación de duplicados: Es posible ingresar códigos repetidos.
 * Sin validación de campos vacíos: Se permite guardar trabajos sin completar este campo.
 
-### Código de trabajo - Automático.
+#### Código de trabajo - Automático.
 
 ![image-20250421-063038.png](../../.gitbook/assets/266864008-image-20250421-063038.png)
 
@@ -44,7 +44,7 @@ En los formularios correspondientes, el campo 'Código de Trabajo' estará habil
 * **Guardar:** Está disponible solo si el formato ingresado es válido. Al guardar, el sistema aplica el formato a todos los trabajos de los planes abiertos y permite elegir entre dos opciones: recalcular el número secuencial para todos los códigos o mantener el número secuencial existente. Una vez seleccionado el modo, el sistema guarda la configuración y muestra un mensaje confirmando que los códigos se han actualizado exitosamente.
 * **Actualizar códigos**: Permite renumerar los trabajos existentes sin modificar el formato actual. Esta función es útil para eliminar huecos en la secuencia o asegurarse de que todos los trabajos tengan un código asignado. Al presionar este botón, aparece un mensaje de confirmación indicando que la acción no se puede deshacer.
 
-#### Variables Permitidas y su Formato
+##### Variables Permitidas y su Formato
 
 * **Código de Plan de auditoria**
 
@@ -84,11 +84,11 @@ En los formularios correspondientes, el campo 'Código de Trabajo' estará habil
     * Mes: $$MM
     * Dia: $$DD
 
-## Cuadro de Mando
+### Cuadro de Mando
 
 En este apartado se pueden mostrar u ocultar qué gráficas e informes se quieren visualizar en el Cuadro de Mando de auditoría. Para ocultar una gráfica, hay que desactivarlo en la columna "Visible".
 
-## Configuración de campos
+### Configuración de campos
 
 En esta sección se podrán crear y configurar nuevos campos personalizables de tipo texto, fecha y opciones.
 
@@ -109,7 +109,7 @@ Para crear un nuevo campo personalizable, se deberá pulsar el botón Nuevo, y p
 Por defecto, las opciones para este tipo de campo se visualizarán en el formulario con un selector. Sin embargo, si se configuran más de 15 opciones , se habilitará automáticamente la opción \*Mostrar todas\*, la cual además, permitirá visualizar las opciones configuradas mediante una ventana, la cual facilitará la búsqueda y selección.
 {% endhint %}
 
-# Metodologías
+## Metodologías
 
 Este apartado permite definir diferentes metodologías con las que evaluar y priorizar los elementos de la organización, así como realizar una planificación de los trabajos de auditoría, a partir de los Análisis de Riesgos definidos en otras áreas de la organización.
 
@@ -125,7 +125,7 @@ Al pulsar sobre una de las metodologías se facilitan las siguientes opciones de
 
 ![image-20240226-071923.png](../../.gitbook/assets/266864008-image-20240226-071923.png)
 
-### Configuración de la Metodología
+#### Configuración de la Metodología
 
 * **Botón Proponer:** Añade automáticamente una lista propuesta de dimensiones básicas dentro de la metodología. Se puede modificar y modelar como se requiera.
 * **Botón Descarga:** Permite generar un informe con la metodología de planificación configurada.

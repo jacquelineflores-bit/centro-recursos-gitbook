@@ -1,6 +1,6 @@
 # Encuestas Compliance
 
-## **Datos generales Encuesta**
+## Datos generales Encuesta
 
 Permite definir la siguiente información:
 
@@ -20,6 +20,6 @@ Permite definir la siguiente información:
 
 El presente apartado permite visualizar los catálogos de cumplimiento sobre los que se ha realizado la encuesta. Seleccionando cada uno de ellos, se accede a la respuesta de cada una de las preguntas de la encuestas.
 
-## **Seguimiento Encuesta**
+## Seguimiento Encuesta
 
 Permite llevar un registro de las acciones realizadas sobre la encuesta con la información del Responsable, Fecha, Descripción y Origen.

@@ -139,7 +139,7 @@ Las plantillas de tipo Listado utilizan las mismas variables de Elementos, Riesg
 | {#descendant.dimensions}{/} | Recorre las dimensiones del elemento descendiente actual. |
 | {#descendant.analysis.AA1} {#threats} {threat\_column\_amenaza} {/} {/} | Accede al análisis de riesgos asociado al elemento descendiente, recorre todos sus riesgos y muestra el valor de la columna **Amenaza** de cada uno. `AA1` debe sustituirse por el alias configurado para el análisis de riesgos. |
 
-### **Variables de Amenazas/Riesgos. Opción de GlobalSuite Análisis de Riesgos.**
+### Variables de Amenazas/Riesgos. Opción de GlobalSuite Análisis de Riesgos.
 
 La información de esta tabla representan toda la información que se puede conseguir desde la opción de Análisis de Riesgos. Esta información vendrá asociada a un elemento que será el elemento del informe descargado.
 
@@ -154,7 +154,7 @@ Abre tabla en pantalla completa
 | {#element.analysis.AA1.threats | where: ‘threat\_dim\_A2 == “Alto”‘ && threat\_dim\_A2 == “Muy Alto”’} {threat\_dim\_A1} {threat\_dim\_AXX} {/} | Bucle anterior con la posibilidad de recorrer solo los riesgos/amenazas que cumplan con la condición. En el ejemplo se puede ver que la dimensión con alias A2 = Alto y Muy Alto. El alias AA1, se corresponde con el alias del análisis donde están los riesgos y controles que se quieren obtener en el informe. |
 | {#element.analysis.AA1.threats} Riesgo: {threat\_column\_riesgo}  {#threat\_dimensions}  {dimension\_name} {dimension\_alias} {dimension\_value} {/} {/} | Dentro del bucle de amenazas también se puede obtener otro bucle con todas las dimensiones, para obtener su nombre, alias y valor. Este bucle sirve para representar toda la información de los riesgos/amenazas. El alias AA1, se corresponde con el alias del análisis donde están los riesgos y controles que se quieren obtener en el informe. Aquí también se podría añadir un where al bucle de threats. |
 
-### **Listado de Controles**
+### Listado de Controles
 
 Las filas de esta tabla representan toda la información que se puede conseguir desde la opción de GlobalSuite de Gestión de Controles. Esta información se podrá obtener dentro del bucle de riesgos/amenazas.
 
@@ -167,7 +167,7 @@ Abre tabla en pantalla completa
 | {#element.analysis.AA1.threats} Amenaza: {threat\_column\_amenaza} {#threat\_controls} {control\_name}  {control\_dim\_C1} {control\_dim\_C2} {#control\_dimensions} {dimension\_name} {dimension\_alias} {dimension\_value} {/} {/} | Además de obtener las dimensiones por el número de alias se puede realizar un bucle para obtener toda la información de las dimensiones de todos los controles. En el ejemplo se ven las dos formas de obtener las dimensiones de controles:  Identificando el alias concreto  Añadiendo un bucle que recorre las dimensiones para obtener un valor. |
 | {#element.analysis.AA1.threats} Amenaza: {threat\_column\_amenaza} {#threat\_controls | where : 'control\_dim\_C1=="Muy Efectivo"'} {control\_name}  {control\_dim\_CX} {#control\_dimensions } {dimension\_name} {dimension\_alias} {dimension\_value} {/} {/}  {/} | Ejemplo de filtrado de controles por una dimensión del control. En este caso solo traería los controles que cumplen con esta condición. |
 
-### **Listado de variables de Análisis de Riesgos y Metodologías**
+### Listado de variables de Análisis de Riesgos y Metodologías
 
 Abre tabla en pantalla completa
 

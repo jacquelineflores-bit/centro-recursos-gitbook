@@ -1,6 +1,6 @@
 # Configuración Planes
 
-# **Configuración Pruebas**
+## Configuración Pruebas
 
 GlobalSUITE ofrece la posibilidad de configurar las categorías de las pruebas de los Planes de Recuperación, las cuales se desarrollan en la opción ‘Planes/Programa de Pruebas’.
 
@@ -12,7 +12,7 @@ Las opciones que se pueden realizar sobre la tabla son:
 * **Eliminar:** Ofrece la posibilidad de eliminar una o varias categorías definidas. Para ello se debe seleccionar la fila o filas deseadas, y pulsar el botón ‘Eliminar’.
 * **Cambiar Color:** Permite, seleccionando la fila deseada, definir el color que se mostrará en el gráfico de la opción ‘Planes/Programa de Pruebas’.
 
-# **Planes de Recuperación**
+## Planes de Recuperación
 
 Esta sección permite indicar si se requiere añadir a los Planes de Recuperación un conjunto de tablas y campos configurables disponibles de manera opcional.
 
@@ -29,7 +29,7 @@ Esta sección permite indicar si se requiere añadir a los Planes de Recuperaci�
 
 * **Campos Configurables:** Esta tabla permite configurar dos campos adicionales que podrán asociarse al formulario de Secuencias de Recuperación o al formulario de Tareas. En la tabla se permite editar el nombre de los campos configurables (tanto en Español como en Inglés) e indicar dónde se quiere visualizar cada campo haciendo doble click en la columna 'Visibilidad'. Las opciones disponibles en dicha columna son: 'No Visible', 'Secuencias' y 'Tarea'.
 
-# **Tipos de Tareas**
+## Tipos de Tareas
 
 Esta sección permite definir las tipologías de tareas que se pueden establecer en las opciones de 'Plan de Recuperación', 'Programa de Pruebas' o 'Gestión de la Crisis'.
 

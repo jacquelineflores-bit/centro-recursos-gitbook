@@ -1,12 +1,12 @@
 # Automatizaciones: Disparadores
 
-# **Disparadores de automatizaciones**
+## Disparadores de automatizaciones
 
 |  |
 | --- |
 | El disparador es el evento que inicia la regla. A partir de él, GlobalSuite® evalúa las condiciones configuradas y ejecuta las acciones que correspondan. |
 
-## Qué es un disparador
+### Qué es un disparador
 
 Un disparador representa un cambio o evento ocurrido en GlobalSuite®. Cuando se produce ese evento, la plataforma revisa si existe alguna regla activa asociada y comienza su evaluación.
 
@@ -14,7 +14,7 @@ Un disparador representa un cambio o evento ocurrido en GlobalSuite®. Cuando se
 
 *Ejemplo de regla con disparador de BIA consolidado.*
 
-## Catálogo inicial de disparadores
+### Catálogo inicial de disparadores
 
 |  |  |  |
 | --- | --- | --- |
@@ -27,7 +27,7 @@ Un disparador representa un cambio o evento ocurrido en GlobalSuite®. Cuando se
 | Proceso modificado | Cuando se modifican dimensiones o datos relevantes de un proceso. | Crear un BIA o enviar una encuesta si cambia la criticidad. |
 | BIA individual actualizado | Cuando una encuesta o actualización afecta a la consolidación del BIA. | Copiar datos al BIA consolidado y avisar al responsable. |
 
-## Contexto disponible para condiciones y acciones
+### Contexto disponible para condiciones y acciones
 
 El disparador define qué información puede utilizarse en los siguientes componentes. Según el caso, la regla puede disponer de datos del objeto, valores anteriores y nuevos, responsable, dimensión, categoría o relaciones con otros objetos.
 

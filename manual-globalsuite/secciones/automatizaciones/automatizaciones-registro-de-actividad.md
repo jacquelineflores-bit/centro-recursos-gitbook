@@ -1,12 +1,12 @@
 # Automatizaciones: Registro de actividad
 
-# **Registro de actividad de una regla**
+## Registro de actividad de una regla
 
 |  |
 | --- |
 | La actividad permite consultar qué ha ocurrido para cada automatización, desde cuándo se creó o se modificó por última vez, hasta las veces que se ha ejecutado y sobre qué registros y si se produjo alguna incidencia. |
 
-## Registros de actividad
+### Registros de actividad
 
 Para acceder al detalle de un registro se tiene que pulsar en el enlace disponible en la vista inicial de activaciones. Dentro del registro de una regla tenemos el listado de todos los logs que se tienen para ella, con los siguientes campos:
 

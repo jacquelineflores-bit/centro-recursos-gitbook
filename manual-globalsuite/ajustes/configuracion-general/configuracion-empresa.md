@@ -30,7 +30,7 @@ Permite configurar el servidor de correo saliente (SMTP) que GlobalSuite® utili
 Tras introducir los parámetros, utiliza \*\*Test\*\* con una dirección de correo para verificar que el envío de notificaciones funciona correctamente, y pulsa \*\*Guardar\*\* para aplicar la configuración.
 {% endhint %}
 
-## **Doble Factor de autenticación:**
+## Doble Factor de autenticación:
 
 Permite la posibilidad de incorporar un segundo factor de autenticación en la herramienta GlobalSuite®:
 

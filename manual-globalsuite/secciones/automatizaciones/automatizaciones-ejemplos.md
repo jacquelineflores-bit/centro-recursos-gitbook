@@ -1,6 +1,6 @@
 # Automatizaciones: Ejemplos
 
-# **Ejemplos de automatización**
+## Ejemplos de automatización
 
 |  |
 | --- |
@@ -15,7 +15,7 @@
 | Consolidación de BIA tras encuesta | BIA individual actualizado | La encuesta se ha completado y cumple los criterios definidos para consolidar. | Copiar datos al BIA consolidado y notificar al responsable. | Se reduce el trabajo manual de consolidación y queda trazada la actualización. |
 | Reclasificación automática de elementos | Elemento modificado | El valor nuevo de una dimensión implica una nueva clasificación operativa. | Modificar la dimensión correspondiente y avisar al owner. | La clasificación se mantiene alineada con los criterios de la metodología. |
 
-## Ejemplo guiado: riesgo modificado
+### Ejemplo guiado: riesgo modificado
 
 1. Crear una nueva regla con el disparador Riesgo modificado.
 2. Añadir una condición para que la regla continúe únicamente si la criticidad residual pasa a alta.
@@ -28,7 +28,7 @@
 
 *Ejemplo de flujo con condición y varias acciones configuradas.*
 
-## Recomendaciones antes de pasar a producción
+### Recomendaciones antes de pasar a producción
 
 * Aplique nombres claros y consistentes a las reglas.
 * Incluya en la descripción el objetivo, alcance, responsable funcional y resultado esperado.

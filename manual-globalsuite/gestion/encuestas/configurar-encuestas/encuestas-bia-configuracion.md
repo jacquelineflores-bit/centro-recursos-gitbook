@@ -1,8 +1,8 @@
 # Encuestas BIA (Configuración)
 
-# Datos Generales de la configuración
+## Datos Generales de la configuración
 
-## Datos Generales Configuración
+### Datos Generales Configuración
 
 Al acceder a un elemento de la tabla (configuración de una encuesta), la herramienta permite definir los siguientes parámetros para cualquier tipo de encuesta:
 
@@ -22,7 +22,7 @@ Al acceder a un elemento de la tabla (configuración de una encuesta), la herram
   En caso de eliminarse un idioma previamente configurado, las configuraciones que lo usaban se actualizarán automáticamente, sustituyéndolo por el idioma principal de la organización.
 * **Usar como Plantilla:** Indica que la encuesta podrá utilizarse como plantilla para el envío de encuestas desde Inventario y Análisis de Riesgos.
 
-## Notificaciones
+### Notificaciones
 
 Se puede configurar el envío de alertas al destinatario para notificar que tiene encuestas asignadas pendientes. Estas notificaciones se configuran tanto para encuestas internas como externas y están disponibles para todos los tipos de encuestas. La configuración permite definir la periodicidad del envío y el tiempo durante el cual la notificación permanecerá activa, iniciándose su aplicación a partir de la fecha de lanzamiento de la encuesta. Las alertas se envían siempre que la encuesta no se encuentre finalizada.
 
@@ -42,7 +42,7 @@ Las opciones son las siguientes:
 \*\*NOTA:\*\* El valor máximo establecido para este campo es de 365 días.
 {% endhint %}
 
-## Estados
+### Estados
 
 Si el modelo de encuesta seleccionado dispone de estados configurados, la configuración de la encuesta muestra una sección denominada "Estados" que contiene una tabla con los estados configurados y los empleados asignados como responsable a cada estado. Esta tabla permite, por tanto, asignar un empleado como responsable de cada estado de la encuesta, de forma que en función del estado de la encuesta, la herramienta asignará como responsable de la misma al empleado indicado.
 
@@ -52,7 +52,7 @@ La asignación de un responsable a cada estado se realiza seleccionando un estad
 
 ![image-20260212-162646.png](../../../.gitbook/assets/266864003-image-20260212-162646.png)
 
-## Idioma
+### Idioma
 
 Esta opción permite configurar el idioma en el que se enviarán las notificaciones asociadas a las encuestas que utilicen esta configuración.
 
@@ -67,7 +67,7 @@ Este cambio se aplica de forma retroactiva a las configuraciones ya existentes, 
 
 En caso de eliminarse un idioma previamente configurado, las configuraciones que lo usaban se actualizarán automáticamente, sustituyéndolo por el idioma principal de la organización.
 
-## Configuración BIA.
+### Configuración BIA.
 
 Para el caso de encuestas de BIA, aparecen los siguientes campos:
 

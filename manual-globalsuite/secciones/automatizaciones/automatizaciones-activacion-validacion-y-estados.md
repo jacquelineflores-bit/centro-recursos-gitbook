@@ -1,12 +1,12 @@
 # Automatizaciones: Activación, validación y estados
 
-# **Activación, validaciones y estados**
+## Activación, validaciones y estados
 
 |  |
 | --- |
 | Una regla puede guardarse sin activarse. Para que pueda activarse debe disponer, como mínimo, de un disparador y una acción configurados correctamente. |
 
-## Guardar una regla sin activarla
+### Guardar una regla sin activarla
 
 El guardado permite conservar la configuración de una regla aunque todavía no esté preparada para ejecutarse. Esta opción es útil cuando se quiere revisar la regla con otros usuarios, completar campos más adelante o mantenerla como borrador.
 
@@ -14,7 +14,7 @@ El guardado permite conservar la configuración de una regla aunque todavía no 
 
 *Regla guardada correctamente y mantenida en estado desactivado.*
 
-## Activar una regla
+### Activar una regla
 
 Al activar una regla, GlobalSuite® revisa que se cumplan los requisitos mínimos de configuración. Si la regla es válida, quedará disponible para ejecutarse cuando se produzca el disparador configurado.
 
@@ -23,11 +23,11 @@ Al activar una regla, GlobalSuite® revisa que se cumplan los requisitos mínimo
 * Los campos obligatorios de la regla y de sus componentes deben estar completados.
 * Los componentes pendientes o incompletos deben resolverse antes de activar.
 
-## Desactivar una regla
+### Desactivar una regla
 
 Una regla desactivada queda guardada, pero no se ejecuta. Esta opción permite detener temporalmente una automatización sin eliminar su configuración.
 
-## Validaciones habituales
+### Validaciones habituales
 
 |  |  |  |
 | --- | --- | --- |
@@ -42,7 +42,7 @@ Una regla desactivada queda guardada, pero no se ejecuta. Esta opción permite d
 
 *Ejemplo de validación al intentar activar una regla sin acción configurada.*
 
-## Mensajes de confirmación
+### Mensajes de confirmación
 
 Cuando la regla se guarda correctamente, GlobalSuite® muestra un mensaje de confirmación. Si se detecta un error, el sistema muestra el aviso correspondiente y mantiene la regla sin activar hasta que se resuelva la validación.
 

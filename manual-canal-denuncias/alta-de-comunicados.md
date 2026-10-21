@@ -10,13 +10,13 @@ Al pulsar el botón, aparece el listado de documentos. En caso de no existir nin
 
 ![](.gitbook/assets/259817479-image2019-11-12-20-14-29.png)
 
-### **1- Aceptación de las condiciones de uso.**
+### 1- Aceptación de las condiciones de uso.
 
 Son las condiciones de uso definidas por la empresa en la que está implantada el canal de comunicación.
 
 ![](.gitbook/assets/259817479-image2019-2-25-18-11-17.png)
 
-### **2 - Datos de la comunicación**
+### 2 - Datos de la comunicación
 
 Formulario general para la redacción de la comunicación. Se podrán completar los campos disponibles, pudiendo incluir campos obligatorios necesarios para registrarla. En caso de existir, no se podrá pasar al siguiente paso hasta que estén completos. Estos campos podrán ser desplegables de opciones, campos textuales, fechas o checks.
 
@@ -36,13 +36,13 @@ También se podrá ver luego de seleccionar una categoría, debajo de la misma:
 
 ![](.gitbook/assets/259817479-image2024-2-9-13-29-36.png)
 
-### **3 - Datos personales**
+### 3 - Datos personales
 
 Datos personales del comunicador. En función de la configuración, se podrá mandar el comunicado como anónimo, o será necesario identificarse. En ese caso, el comunicador deberá completar al menos el campo "Email" para poder realizar el envío.
 
 ![](.gitbook/assets/259817479-image2019-2-25-18-23-27.png)
 
-### **4 - Personas implicadas en los hechos, informantes y archivos adjuntos**
+### 4 - Personas implicadas en los hechos, informantes y archivos adjuntos
 
 Permite informar sobre personas implicadas en el hecho comunicado, personas informantes que puedan tener más información al respecto y adjuntar archivos que sirvan como pruebas o evidencias del suceso.
 
@@ -78,7 +78,7 @@ El audio de voz (tras el proceso de distorsión) quedará almacenado en la tabla
 
 ![](.gitbook/assets/259817479-image-2023-6-30-14-2-27.png)
 
-### **5 - Confirmación**
+### 5 - Confirmación
 
 Vista de resumen del comunicado a enviar, indicando cuántas preguntas de las disponibles en el formulario se han completado, si se ha adjuntado algún archivo y la información del comunicador o y si existen personas involucradas.
 
@@ -100,7 +100,7 @@ Para asegurar que la comunicación se pueda gestionar en el Canal, sólo será p
 
 Cuando se envíe la comunicación, los usuarios del canal que no tengan acceso, no recibirán ninguna notificación o alerta al respecto.
 
-### **6 - Usuario y Password**
+### 6 - Usuario y Password
 
 Claves de acceso para la futura revisión de la comunicación.
 

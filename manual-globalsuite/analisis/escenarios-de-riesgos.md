@@ -1,6 +1,6 @@
 # Escenarios de riesgos
 
-# Escenarios de Riesgo
+## Escenarios de Riesgo
 
 {% hint style="info" %}
 Esta funcionalidad permite crear y analizar escenarios cuantitativos de riesgo mediante simulaciones Monte Carlo, a partir de los riesgos ya identificados en un análisis de riesgos de GlobalSuite®.
@@ -13,7 +13,7 @@ Para acceder a la funcionalidad, entra en:
 
 ![image-20260831-095006.png](../.gitbook/assets/1943535622-image-20260831-095006.png)
 
-## Centro de Simulaciones
+### Centro de Simulaciones
 
 El **Centro de Simulaciones** muestra una visión general de los escenarios de riesgo registrados y permite acceder a sus principales acciones.
 
@@ -26,7 +26,7 @@ En la parte superior se incluye un panel resumen con los siguientes indicadores:
 
 Los escenarios se presentan en formato tarjeta. Cada tarjeta muestra la información principal del escenario, como el nombre, metodología asociada, número de riesgos incluidos, método de agregación, número de iteraciones, periodo temporal, precisión, pérdida esperada, VaR 95 % y fecha de ejecución, si el escenario ya ha sido ejecutado.
 
-## Acciones principales
+### Acciones principales
 
 La pantalla dispone de acciones principales para trabajar con los escenarios de riesgo.
 
@@ -46,7 +46,7 @@ La pantalla dispone de acciones principales para trabajar con los escenarios de 
 
 * **Eliminar**: permite eliminar un escenario de riesgo existente.
 
-### Filtros
+#### Filtros
 
 Los filtros permiten localizar escenarios concretos a partir de los datos disponibles en la tabla.
 
@@ -57,7 +57,7 @@ Pueden utilizarse filtros sobre campos como:
 * Análisis de riesgos.
 * Riesgos
 
-## Crear un nuevo escenario
+### Crear un nuevo escenario
 
 Para crear un nuevo escenario, pulsa el botón **Nuevo Escenario**.
 
@@ -70,13 +70,13 @@ Al hacerlo, se abre un asistente guiado que permite configurar el escenario de f
 5. **Resultados y Análisis**
 6. **Recomendaciones**
 
-### Información Básica
+#### Información Básica
 
 En este paso se define la información general del escenario y los parámetros principales de la simulación.
 
 ![image-20260703-060230.png](../.gitbook/assets/1943535622-image-20260703-060230.png)
 
-#### Información general
+##### Información general
 
 Los campos disponibles son los siguientes:
 
@@ -86,7 +86,7 @@ Los campos disponibles son los siguientes:
 * Periodo temporal: Periodo sobre el que se simulará la materialización de los riesgos.
 * Moneda: Moneda utilizada para representar los impactos económicos y resultados de la simulación.
 
-#### Parámetros de simulación
+##### Parámetros de simulación
 
 Los parámetros de simulación determinan cómo se ejecutará el cálculo y cómo se representarán los escenarios posibles de materialización de los riesgos.
 
@@ -110,7 +110,7 @@ También es posible personalizar el número de iteraciones, indicando un valor e
 
 Una vez completada la información, se puede avanzar al siguiente paso del asistente.
 
-### Alcance de simulación
+#### Alcance de simulación
 
 En este paso se selecciona la metodología y el análisis de riesgos que servirán como base para el escenario.
 
@@ -131,7 +131,7 @@ Los campos y bloques principales son:
   Si la dimensión de impacto ya es **cuantitativa**, no será necesario realizar este mapeo, ya que el valor económico podrá utilizarse directamente en el cálculo.
 * **Análisis de riesgos**: permite seleccionar uno o varios análisis de riesgos sobre los que se realizará la simulación. Los análisis seleccionados serán la base del escenario y permitirán recuperar los riesgos disponibles para el siguiente paso del asistente.
 
-### Riesgos
+#### Riesgos
 
 En este paso se seleccionan los riesgos que formarán parte del escenario y se revisan sus parámetros de cálculo.
 
@@ -159,7 +159,7 @@ Para cada riesgo seleccionado se muestra la siguiente información:
 
 El sistema puede proponer valores por defecto para las distribuciones y para los valores mínimo y máximo. Estos valores podrán modificarse antes de ejecutar la simulación.
 
-### Resumen
+#### Resumen
 
 La pestaña Resumen permite revisar la configuración completa del escenario antes de ejecutar la simulación.
 
@@ -167,7 +167,7 @@ Desde esta vista se puede ejecutar la simulación cuando la configuración sea c
 
 Si se detecta algún dato incorrecto o incompleto, el usuario podrá volver a la pestaña correspondiente para realizar los ajustes necesarios, siempre que el escenario todavía no haya sido ejecutado.
 
-### Resultados
+#### Resultados
 
 La pestaña Resultados se habilita una vez ejecutada la simulación.
 
@@ -184,7 +184,7 @@ Las vistas disponibles son:
 
 Esta pestaña es de consulta y permite interpretar la exposición económica del escenario desde diferentes perspectivas.
 
-### Recomendaciones
+#### Recomendaciones
 
 La pestaña Recomendaciones se habilita una vez ejecutada la simulación y permite consultar propuestas de mitigación y analizar su impacto.
 
@@ -196,7 +196,7 @@ Esta pestaña se divide en tres bloques:
 
 La pestaña Recomendaciones permite evaluar posibles medidas de mitigación antes de incorporarlas definitivamente al análisis de riesgos.
 
-## Recursos relacionados
+### Recursos relacionados
 
 {% hint style="info" %}
 Para mas información sobre esta funcionalidad, puedes consultar el tutorial [¿Cómo crear y analizar escenarios de riesgos con simulación Monte Carlo en GlobalSuite®? - Documentación GlobalSuite® - Confluence](https://globalsuitesolutions.atlassian.net/wiki/spaces/GlobalSUITEes/pages/1943142428/C+mo+crear+y+analizar+escenarios+de+riesgos+con+simulaci+n+Monte+Carlo+en+GlobalSuite)

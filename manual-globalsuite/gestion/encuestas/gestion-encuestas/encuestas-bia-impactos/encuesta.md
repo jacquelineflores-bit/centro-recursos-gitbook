@@ -70,7 +70,7 @@ Según la configuración de los **Tipos de Impacto** en el apartado **Ajustes > 
 
 Para cada tabla se calcula un **valor de criticidad del proceso**, basado en la información introducida y en el criterio definido en **Ajustes > Continuidad de Negocio** (Acumulado, Máximo, Mínimo, Media o Media Ponderada). En el caso de las tablas cualitativas, se determina además un **nivel de criticidad** a partir del valor obtenido, según la escala configurada.
 
-## **Parámetros de Recuperación**
+## Parámetros de Recuperación
 
 Permite el usuario definir puntos más genéricos a la hora de establecer un BIA, como pueden ser los siguientes:
 
@@ -84,7 +84,7 @@ Permite el usuario definir puntos más genéricos a la hora de establecer un BIA
 * **Plazo de Reanudación:** Permite definir la escala temporal de recuperación de los recursos necesarios para soportar el servicio o proceso de negocio.
 * **Justificación:** Campo texto para justificar el plazo identificado en el apartado anterior.
 
-## **Recursos Necesarios**
+## Recursos Necesarios
 
 Se podrán identificar los recursos necesarios para garantizar la recuperación del proceso evaluado en caso de interrupción.
 
@@ -92,7 +92,7 @@ Los recursos pueden incluir elementos de todas la categorías configuradas en Gl
 
 ![image-20250625-181827.png](../../../../.gitbook/assets/1235943430-image-20250625-181827.png)
 
-## **Preguntas personalizables**
+## Preguntas personalizables
 
 En la Encuesta de BIA aparecerán las preguntas incluidas en el modelo configurado en el apartado de 'Ajustes/Modelos de Encuestas'. Estas preguntas pueden ser de distintos tipos: 'Texto', 'Select', 'Tabla' ó 'Tabla de Elementos'.
 
