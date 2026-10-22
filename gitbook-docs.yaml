@@ -36,7 +36,7 @@ site:
       children:
         - type: space
           key: space-4
-          title: Manual Canal de Denuncias
+          title: Español
           path: manual-canal-de-denuncias
           default: true
           draft: true
@@ -45,10 +45,11 @@ site:
         - type: space
           key: space-7
           title: English
-          path: copy-of-manual-canal-de-denuncias
+          path: en
           draft: true
           content:
             directory: ./manual-canal-de-denuncias/copy-of-manual-canal-de-denuncias
+            language: en
     - type: section
       key: section-3
       title: Changelog
