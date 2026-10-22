@@ -39,7 +39,6 @@ site:
           title: Español
           path: manual-canal-de-denuncias
           default: true
-          draft: true
           content:
             directory: ./manual-canal-denuncias
             language: es
