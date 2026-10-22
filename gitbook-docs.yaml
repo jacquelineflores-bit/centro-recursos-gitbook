@@ -42,6 +42,13 @@ site:
           draft: true
           content:
             directory: ./manual-canal-denuncias
+        - type: space
+          key: space-7
+          title: English
+          path: copy-of-manual-canal-de-denuncias
+          draft: true
+          content:
+            directory: ./manual-canal-de-denuncias/copy-of-manual-canal-de-denuncias
     - type: section
       key: section-3
       title: Changelog
