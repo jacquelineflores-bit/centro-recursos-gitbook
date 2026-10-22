@@ -42,6 +42,7 @@ site:
           draft: true
           content:
             directory: ./manual-canal-denuncias
+            language: es
         - type: space
           key: space-7
           title: English
