@@ -84,7 +84,6 @@ site:
           title: Trust Center
           path: trust-center
           default: true
-          draft: true
           content:
             directory: ./trust-center
     - type: section
