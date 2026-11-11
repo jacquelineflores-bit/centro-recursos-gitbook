@@ -60,7 +60,6 @@ site:
           title: Changelog
           path: changelog
           default: true
-          draft: true
           content:
             directory: ./changelog
     - type: section
@@ -73,7 +72,6 @@ site:
           title: Marketplace
           path: marketplace
           default: true
-          draft: true
           content:
             directory: ./marketplace
     - type: section
