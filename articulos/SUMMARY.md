@@ -1,6 +1,15 @@
 # Table of contents
 
 * [Inicio](README.md)
+* [Bienvenido a GlobalSuite](bienvenido-a-globalsuite/README.md)
+  * [GlobalSuite® Information Security](bienvenido-a-globalsuite/globalsuite-r-information-security.md)
+  * [GlobalSuite® Risk Management](bienvenido-a-globalsuite/globalsuite-r-risk-management.md)
+  * [GlobalSuite® Business Continuity](bienvenido-a-globalsuite/globalsuite-r-business-continuity.md)
+  * [GlobalSuite® Compliance Management](bienvenido-a-globalsuite/globalsuite-r-compliance-management.md)
+  * [GlobalSuite® Privacy Data Protection](bienvenido-a-globalsuite/globalsuite-r-privacy-data-protection.md)
+  * [GlobalSuite® Audit Management](bienvenido-a-globalsuite/globalsuite-r-audit-management.md)
+  * [GlobalSuite® TPRM](bienvenido-a-globalsuite/globalsuite-r-tprm.md)
+  * [Catálogos GlobalSuite disponibles (Compliance, Riesgos)](bienvenido-a-globalsuite/catalogos-globalsuite-disponibles-compliance-riesgos.md)
 
 ## Empezando
 
@@ -139,15 +148,3 @@
 ## Preguntas frecuentes
 
 * [Preguntas frecuentes](preguntas-frecuentes/preguntas-frecuentes.md)
-
-## Por clasificar
-
-* [Bienvenido a GlobalSuite](por-clasificar/bienvenido-a-globalsuite/README.md)
-  * [GlobalSuite® Information Security](por-clasificar/bienvenido-a-globalsuite/globalsuite-r-information-security.md)
-  * [GlobalSuite® Risk Management](por-clasificar/bienvenido-a-globalsuite/globalsuite-r-risk-management.md)
-  * [GlobalSuite® Business Continuity](por-clasificar/bienvenido-a-globalsuite/globalsuite-r-business-continuity.md)
-  * [GlobalSuite® Compliance Management](por-clasificar/bienvenido-a-globalsuite/globalsuite-r-compliance-management.md)
-  * [GlobalSuite® Privacy Data Protection](por-clasificar/bienvenido-a-globalsuite/globalsuite-r-privacy-data-protection.md)
-  * [GlobalSuite® Audit Management](por-clasificar/bienvenido-a-globalsuite/globalsuite-r-audit-management.md)
-  * [GlobalSuite® TPRM](por-clasificar/bienvenido-a-globalsuite/globalsuite-r-tprm.md)
-  * [Catálogos GlobalSuite disponibles (Compliance, Riesgos)](por-clasificar/bienvenido-a-globalsuite/catalogos-globalsuite-disponibles-compliance-riesgos.md)
