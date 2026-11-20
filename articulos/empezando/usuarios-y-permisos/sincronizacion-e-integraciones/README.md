@@ -1,15 +1,7 @@
-# Sincronización e integraciones
+# Sincronización
 
 Guías para integrar GlobalSuite con proveedores de identidad y servicios externos.
 
-{% content-ref url="como-configurar-una-conexion-saml.md" %}
-[como-configurar-una-conexion-saml.md](como-configurar-una-conexion-saml.md)
-{% endcontent-ref %}
+<table data-view="cards"><thead><tr><th data-card-target data-type="content-ref">Artículo</th></tr></thead><tbody><tr><td><a href="como-configurar-una-conexion-saml.md">como-configurar-una-conexion-saml.md</a></td></tr><tr><td><a href="como-conectar-y-sincronizar-active-directory.md">como-conectar-y-sincronizar-active-directory.md</a></td></tr><tr><td><a href="como-sincronizar-globalsuite-r-con-fact24.md">como-sincronizar-globalsuite-r-con-fact24.md</a></td></tr></tbody></table>
 
-{% content-ref url="como-conectar-y-sincronizar-active-directory.md" %}
-[como-conectar-y-sincronizar-active-directory.md](como-conectar-y-sincronizar-active-directory.md)
-{% endcontent-ref %}
-
-{% content-ref url="como-sincronizar-globalsuite-r-con-fact24.md" %}
-[como-sincronizar-globalsuite-r-con-fact24.md](como-sincronizar-globalsuite-r-con-fact24.md)
-{% endcontent-ref %}
+*

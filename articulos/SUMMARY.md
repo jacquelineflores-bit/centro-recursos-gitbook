@@ -34,10 +34,10 @@
   * [Gestionar riesgos](riesgos/analisis-y-evaluacion/como-gestionar-riesgos-en-globalsuite-r.md)
   * [Gestionar controles](riesgos/analisis-y-evaluacion/como-gestionar-controles-en-globalsuite-r.md)
   * [Gestionar históricos de análisis](riesgos/analisis-y-evaluacion/como-gestionar-historicos-de-analisis-de-riesgos-en-globalsuite-r.md)
+* [Gestionar evidencias](riesgos/como-gestionar-evidencias-en-globalsuite-r.md)
 * [IA y avanzado](riesgos/ia-y-avanzado/README.md)
   * [Usar el recomendador de riesgos y controles con IA](riesgos/ia-y-avanzado/descubre-nuestro-recomendador-de-riesgos-y-controles-potenciado-por-inteligencia.md)
   * [Analizar escenarios con simulación Monte Carlo](riesgos/ia-y-avanzado/como-crear-y-analizar-escenarios-de-riesgos-con-simulacion-monte-carlo-en-global.md)
-* [Gestionar evidencias](riesgos/como-gestionar-evidencias-en-globalsuite-r.md)
 
 ## Seguridad de la información
 
@@ -64,10 +64,9 @@
   * [Configurar escenarios y planes de continuidad](continuidad-de-negocio/planes-y-recuperacion/como-configurar-escenarios-y-planes-de-continuidad-en-globalsuite-r.md)
   * [Configurar planes de recuperación](continuidad-de-negocio/planes-y-recuperacion/como-configurar-planes-de-recuperacion-en-globalsuite-r.md)
 * [Gestión de crisis](continuidad-de-negocio/gestion-de-crisis/README.md)
-  * [Configurar y activar un plan de gestión de crisis](continuidad-de-negocio/gestion-de-crisis/como-configurar-y-activar-un-plan-de-gestion-de-crisis-en-globalsuite-r.md)
+  * [Configurar y activar un plan de gestión de crisis](continuidad-de-negocio/gestion-de-crisis/como-configurar-y-activar-un-plan-de-gestion-de-crisis-en-globalsuite-r/README.md)
+    * [Configurar y ejecutar el programa de pruebas](continuidad-de-negocio/gestion-de-crisis/como-configurar-y-activar-un-plan-de-gestion-de-crisis-en-globalsuite-r/como-configurar-y-ejecutar-el-programa-de-pruebas-en-globalsuite-r.md)
   * [Gestionar una crisis](continuidad-de-negocio/gestion-de-crisis/como-utilizar-la-gestion-de-crisis-en-globalsuite-r.md)
-* [Pruebas](continuidad-de-negocio/pruebas/README.md)
-  * [Configurar y ejecutar el programa de pruebas](continuidad-de-negocio/pruebas/como-configurar-y-ejecutar-el-programa-de-pruebas-en-globalsuite-r.md)
 
 ## Auditoría
 
@@ -128,8 +127,7 @@
   * [Plantillas dinámicas en Word](funcionalidades-transversales/plantillas-de-informes-bi/personaliza-y-descarga-informes-con-nuestras-plantillas-dinamicas-en-word.md)
   * [Plantillas dinámicas en Excel](funcionalidades-transversales/plantillas-de-informes-bi/personaliza-y-descarga-informes-con-nuestras-plantillas-dinamicas-en-excel.md)
   * [Crear y configurar informes](funcionalidades-transversales/plantillas-de-informes-bi/como-crear-y-configurar-informes-en-globalsuite-r.md)
-* [Proyectos](funcionalidades-transversales/proyectos/README.md)
-  * [Crear y gestionar proyectos](funcionalidades-transversales/proyectos/como-crear-y-gestionar-proyectos-en-globalsuite-r.md)
+* [Crear y gestionar proyectos](funcionalidades-transversales/como-crear-y-gestionar-proyectos-en-globalsuite-r.md)
 
 ## Ajustes
 
