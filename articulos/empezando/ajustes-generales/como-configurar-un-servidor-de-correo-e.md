@@ -1,8 +1,7 @@
-# ¿Cómo configurar un servidor de correo-e ?
+# Configurar el servidor de correo
 
 {% hint style="info" %}
-Este tutorial explica, cómo configurar el \*\*servidor de correo-e (SMTP)\*\* en GlobalSuite®, permitiendo que la plataforma pueda enviar notificaciones automáticas, alertas y comunicaciones a los usuarios.
-El objetivo es detallar la configuración de los parámetros del servidor, las opciones de conexión y la validación mediante el test de envío, disponible para los administradores.
+Este tutorial explica, cómo configurar el \*\*servidor de correo-e (SMTP)\*\* en GlobalSuite®, permitiendo que la plataforma pueda enviar notificaciones automáticas, alertas y comunicaciones a los usuarios. El objetivo es detallar la configuración de los parámetros del servidor, las opciones de conexión y la validación mediante el test de envío, disponible para los administradores.
 {% endhint %}
 
 ## Configurar un servidor de correo-e
@@ -13,17 +12,17 @@ Para realizarla, es necesario acceder a la opción Configuración, General, desd
 
 Desmarcaremos el check de “Configuración por defecto” para que se habiliten las entradas de texto del formulario.
 
-![](../../../.gitbook/assets/1367310380-att-5-for-1367310380.jpeg)
+![](../../.gitbook/assets/1367310380-att-5-for-1367310380.jpeg)
 
 Los datos necesarios para realizar la configuración son los siguientes:
 
-|  |  |
-| --- | --- |
-| Servidor SMTP (IP o FQDN)  La máquina de GlobalSuite debe tener conectividad a esta IP |  |
-| Puerto |  |
-| Remitente |  |
-| Cuenta |  |
-| Contraseña  (Sólo en el caso de buzón específico y puede ser introducida por el cliente durante la instalación inicial) |  |
+|                                                                                                                        |   |
+| ---------------------------------------------------------------------------------------------------------------------- | - |
+| Servidor SMTP (IP o FQDN) La máquina de GlobalSuite debe tener conectividad a esta IP                                  |   |
+| Puerto                                                                                                                 |   |
+| Remitente                                                                                                              |   |
+| Cuenta                                                                                                                 |   |
+| Contraseña (Sólo en el caso de buzón específico y puede ser introducida por el cliente durante la instalación inicial) |   |
 
 En caso de que la conexión se realice de forma anónima, pueden obviarse los campos usuario y contraseña, que se deshabilitarán automáticamente al marcar el check “Conexión Anónima”.
 

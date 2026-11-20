@@ -1,4 +1,4 @@
-# ¿Cómo personalizar GlobalSuite®?
+# Personalizar GlobalSuite
 
 {% hint style="info" %}
 Esta guía explica cómo adaptar GlobalSuite® a la imagen corporativa de tu organización: el \*\*logotipo\*\*, los \*\*colores\*\* de la interfaz, la \*\*plantilla de los correos electrónicos\*\* y la \*\*pantalla de acceso (login)\*\*.
@@ -10,7 +10,7 @@ Todas las opciones de personalización visual se gestionan desde **Ajustes > Con
 
 El logotipo y los colores corporativos se configuran en la pestaña **Personalizar** (**Ajustes > Configuración General > Personalizar**).
 
-![image-20260728-070820.png](../../../.gitbook/assets/2006450178-image-20260728-070820.png)
+![image-20260728-070820.png](../../.gitbook/assets/2006450178-image-20260728-070820.png)
 
 **Pasos:**
 
@@ -29,7 +29,7 @@ Para el detalle completo de esta pantalla consulta [Personalización](https://gl
 
 El formato de los correos que envía GlobalSuite® se configura en la pestaña **Correo** (**Ajustes > Configuración General > Correo**), en el bloque **Configuración de HTML de envío de e-mails**.
 
-![image-20260728-070840.png](../../../.gitbook/assets/2006450178-image-20260728-070840.png)
+![image-20260728-070840.png](../../.gitbook/assets/2006450178-image-20260728-070840.png)
 
 **Pasos:**
 
